@@ -1,0 +1,6021 @@
+{ 
+	"type": "FeatureCollection",
+	"features": [
+			{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.4965328,
+			55.5270297
+			]
+		},
+		"properties": {
+			"store-name": "Plus Fitness",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "Torvet 1",
+			"machineType": "Coolers",
+			"serialNo": "90801241",
+			"city": "4293 Dianalund"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5322363,
+			55.6845223
+			]
+		},
+		"properties": {
+			"store-name": "Frederiksberg Svoemmehal Cafeen",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "Helgesvej 29",
+			"machineType": "Coolers",
+			"serialNo": "90801251",
+			"city": "2000 Frederiksberg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.9880233,
+			55.613966
+			]
+		},
+		"properties": {
+			"store-name": "Maribo Fitness",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "Ved Stadion  4",
+			"machineType": "Coolers",
+			"serialNo": "90801301",
+			"city": "4930 Maribo"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.656803,
+			55.586062
+			]
+		},
+		"properties": {
+			"store-name": "Byens Fitness Ugerloese",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "Hovedgaden 23C",
+			"machineType": "Coolers",
+			"serialNo": "90801302",
+			"city": "4350 Ugerloese"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.2947331,
+			55.5895795
+			]
+		},
+		"properties": {
+			"store-name": "LOOP Greve",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "Haandvaerkerbyen 36",
+			"machineType": "Coolers",
+			"serialNo": "91301330",
+			"city": "Greve"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.588086,
+			55.75292
+			]
+		},
+		"properties": {
+			"store-name": "High End Crossfit",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "Traverbanevej 10",
+			"machineType": "Coolers",
+			"serialNo": "94662615",
+			"city": "2920 Charlottenlund"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.357064,
+			55.659616
+			]
+		},
+		"properties": {
+			"store-name": "Mikenta",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "Roskildevej 14 G",
+			"machineType": "Coolers",
+			"serialNo": "94801130",
+			"city": "2620 Albertslund"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0515894,
+			59.2678465
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Stockholm Hoegdalen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hoegdalsgaangen 30",
+			"machineType": "Vending",
+			"serialNo": "2120010655",
+			"city": "124 54 Bandhagen Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.6421664,
+			63.1688708
+			]
+		},
+		"properties": {
+			"store-name": "Kentaur",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Praestgatan 59",
+			"machineType": "Vending",
+			"serialNo": "2120010659",
+			"city": "831 34 oestersund Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.6442362,
+			63.1813307
+			]
+		},
+		"properties": {
+			"store-name": "Gym24H",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Regementgatan 23",
+			"machineType": "Vending",
+			"serialNo": "2120010660",
+			"city": "831 41 oestersund Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.2057756,
+			55.6424339
+			]
+		},
+		"properties": {
+			"store-name": "Fitness Express Kungsbacka",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Aranaes Allé 15",
+			"machineType": "Vending",
+			"serialNo": "2120010661",
+			"city": "434 42 Kungsbacka Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.0211419,
+			55.6072255
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Malmoe Vaernhem",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Drottningggatan 2",
+			"machineType": "Vending",
+			"serialNo": "2122012427",
+			"city": "212 11 Malmoe Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.311672,
+			62.3885346
+			]
+		},
+		"properties": {
+			"store-name": "Iron Works Sundsvall",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Soedra Jaernvaegsgatan 14",
+			"machineType": "Vending",
+			"serialNo": "2122012428",
+			"city": "852 31 Sundsvall Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.1311591,
+			59.1590266
+			]
+		},
+		"properties": {
+			"store-name": "Fysiken Sport och Motion",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Stationsvaegen 27",
+			"machineType": "Vending",
+			"serialNo": "2122012431",
+			"city": "136 40 Haninge Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.6352723,
+			63.17685
+			]
+		},
+		"properties": {
+			"store-name": "Golds Gym oestersund",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Storgatan 38",
+			"machineType": "Vending",
+			"serialNo": "2122012432",
+			"city": "831 30 oestersund Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5926448,
+			55.6601854
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness Amager",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Rued Langgaards Vej 2C",
+			"machineType": "Vending",
+			"serialNo": "2122012433",
+			"city": "2300 Koebenhavn S"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.3126267,
+			55.925941
+			]
+		},
+		"properties": {
+			"store-name": "4Fitness",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Carlsbergvej 32A",
+			"machineType": "Vending",
+			"serialNo": "2122012434",
+			"city": "3400 Hilleroed"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5404078,
+			55.6982245
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness - Noerrebro",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Esromgade 15",
+			"machineType": "Vending",
+			"serialNo": "2122012435",
+			"city": "2200 Koebenhavn N"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.210313,
+			55.6350412
+			]
+		},
+		"properties": {
+			"store-name": "MAS Traeningscenter",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Jaernvaegsgatan 8",
+			"machineType": "Vending",
+			"serialNo": "2122012437",
+			"city": "245 44 Staffanstorp Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-74.6363588,
+			41.0334562
+			]
+		},
+		"properties": {
+			"store-name": "Sparta Crossfit",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Bryggervej 14",
+			"machineType": "Vending",
+			"serialNo": "2122012438",
+			"city": "8240 aarhus N"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.4931031,
+			56.9017772
+			]
+		},
+		"properties": {
+			"store-name": "Fitness Express Falkenberg",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Storgatan 45",
+			"machineType": "Vending",
+			"serialNo": "2122012439",
+			"city": "311 31 Falkenberg Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.484135,
+			56.07833
+			]
+		},
+		"properties": {
+			"store-name": "Hornbaek Fitness",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Engholmvej 7",
+			"machineType": "Vending",
+			"serialNo": "2122012442",
+			"city": "3100 Hornbaek"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.2529045,
+			57.1063644
+			]
+		},
+		"properties": {
+			"store-name": "Fitness Express Varberg",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "oestra Laanggatan 47",
+			"machineType": "Vending",
+			"serialNo": "2122012443",
+			"city": "432 41 Varberg Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.468987,
+			55.641218
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness Hvidovre",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Bibliotekvej 58",
+			"machineType": "Vending",
+			"serialNo": "2122012444",
+			"city": "2650 Hvidovre"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.4785916,
+			55.9016927
+			]
+		},
+		"properties": {
+			"store-name": "Form & Figur",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Christianshusvej 4B",
+			"machineType": "Vending",
+			"serialNo": "2122012445",
+			"city": "2970 Hoersholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.1916769,
+			55.7003064
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24Seven AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Stora Soedergatan 4",
+			"machineType": "Vending",
+			"serialNo": "2213002721",
+			"city": "222 23 Lund  Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.311672,
+			62.3885346
+			]
+		},
+		"properties": {
+			"store-name": "Stargym AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Koepmangatan 20",
+			"machineType": "Vending",
+			"serialNo": "2213002723",
+			"city": "852 31 Sundsvall Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			20.2252821,
+			67.8557995
+			]
+		},
+		"properties": {
+			"store-name": "Gym & Fitness Kiruna AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vintergatan 3C",
+			"machineType": "Vending",
+			"serialNo": "2213002725",
+			"city": "981 57 Kiruna  Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.4109822,
+			60.1410033
+			]
+		},
+		"properties": {
+			"store-name": "Maa Baettre AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vasagatan 5",
+			"machineType": "Vending",
+			"serialNo": "2213002726",
+			"city": "777 30 Smedjebacken Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.1701659,
+			58.5708852
+			]
+		},
+		"properties": {
+			"store-name": "World Class Vilbergen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Urbergsgatan 90",
+			"machineType": "Vending",
+			"serialNo": "2213002731",
+			"city": "603 56 Norrkoeping Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.1867639,
+			60.1459534
+			]
+		},
+		"properties": {
+			"store-name": "Maa Baettre AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Koepmangatan 14",
+			"machineType": "Vending",
+			"serialNo": "2213002732",
+			"city": "771 32 Ludvika Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.9510512,
+			63.5648122
+			]
+		},
+		"properties": {
+			"store-name": "Golds Gym Krokom",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Tjaernaasen 176",
+			"machineType": "Vending",
+			"serialNo": "2213002733",
+			"city": "830 51 Krokom Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.9880233,
+			55.613966
+			]
+		},
+		"properties": {
+			"store-name": "Kockum Fritid  Café & Restaurang AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vaestra Varvsgatan 8",
+			"machineType": "Vending",
+			"serialNo": "2213002734",
+			"city": "211 19 Malmoe Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.6562355,
+			56.8802297
+			]
+		},
+		"properties": {
+			"store-name": "Gymnasia AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Tullgatan 4",
+			"machineType": "Vending",
+			"serialNo": "2213002744",
+			"city": "387 21 Borgholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0704971,
+			59.3149794
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24Seven Medborgarplatsen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Fatburstrappan 6",
+			"machineType": "Vending",
+			"serialNo": "2213002745",
+			"city": "118 26 Stockholm  Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.0889289,
+			55.6407398
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Algade 49 3.sal",
+			"machineType": "Vending",
+			"serialNo": "2214004195",
+			"city": "4000 Roskilde"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.550941,
+			55.696498
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Jagtvej 113-115",
+			"machineType": "Vending",
+			"serialNo": "2214004196",
+			"city": "2200 Koebenhavn N"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9267275,
+			57.6968652
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Majorna",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Karl Johansgatan 47",
+			"machineType": "Vending",
+			"serialNo": "2215005467",
+			"city": "414 59 Goeteborg Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.0170794,
+			60.7157842
+			]
+		},
+		"properties": {
+			"store-name": "Life n Joy AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Prins August vaeg 4",
+			"machineType": "Vending",
+			"serialNo": "2215005468",
+			"city": "793 35 Leksand"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.0234963,
+			55.6023851
+			]
+		},
+		"properties": {
+			"store-name": "Fitnes24Seven Katrinelund",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Celciusgatan 38",
+			"machineType": "Vending",
+			"serialNo": "2215005469",
+			"city": "212 14 Malmoe Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.0076336,
+			55.5897955
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven (Malmoe Moellevaangen)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Fricksgatan 6",
+			"machineType": "Vending",
+			"serialNo": "2215005470",
+			"city": "214 26 Malmoe Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.6394199,
+			59.8596495
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven (Uppsala centrum)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Dragarbrunnsgatan 35",
+			"machineType": "Vending",
+			"serialNo": "2215005471",
+			"city": "753 20 Uppsala Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.8608147,
+			56.2427677
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven (aengelholm Centrum)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Taastrupsgatan 11",
+			"machineType": "Vending",
+			"serialNo": "2215005473",
+			"city": "262 32 aengelholm Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.2135803,
+			59.2701291
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven (oerebro Centrum)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kungsgatan 16-22",
+			"machineType": "Vending",
+			"serialNo": "2215005474",
+			"city": "702 11 oerebro Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.8009716,
+			56.8796151
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven (Vaexjoe Centrum)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Biblioteksgatan 1-3",
+			"machineType": "Vending",
+			"serialNo": "2215005475",
+			"city": "352 31 Vaexjoe Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9644008,
+			57.6975134
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife MW AB (Vasagatan)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vasagatan 7",
+			"machineType": "Vending",
+			"serialNo": "2216006482",
+			"city": "411 24 Goeteborg Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.9349063,
+			59.228004
+			]
+		},
+		"properties": {
+			"store-name": "F24S Hammarby Sjoestad",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hammarby Allé 183",
+			"machineType": "Vending",
+			"serialNo": "2216006486",
+			"city": "120 66 Stockholm Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.1580632,
+			57.670343
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife Gym & Bad i Vaest AB (Moelnlycke)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Roersvaengen 17",
+			"machineType": "Vending",
+			"serialNo": "2216006492",
+			"city": "435 35 Moelnlycke Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.9552128,
+			59.3529958
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife i Vaest AB (Bromma)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Karlsbodavaegen 17D",
+			"machineType": "Vending",
+			"serialNo": "2216006493",
+			"city": "168 67 Bromma Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.1566778,
+			56.0293936
+			]
+		},
+		"properties": {
+			"store-name": "Peter & Richard Traening AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Tivolibadsgatan 4",
+			"machineType": "Vending",
+			"serialNo": "2216006494",
+			"city": "29132 Kristianstad"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9801168,
+			57.7069631
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife MW AB (Ullevi)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Parkgatan 65",
+			"machineType": "Vending",
+			"serialNo": "2216006495",
+			"city": "411 38 Goeteborg Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.97456,
+			57.70887
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife MW AB (City Domkyrkan)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Drottninggatan 164",
+			"machineType": "Vending",
+			"serialNo": "2216006496",
+			"city": "414 14 Goeteborg Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.0763481,
+			57.4863842
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife i Kungsbacka AB (Kungsbacka City)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Soedra Torggatan 18",
+			"machineType": "Vending",
+			"serialNo": "2216006497",
+			"city": "434 30 Kungsbacka Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.0013583,
+			57.6815401
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife Gym & Bad i Vaest AB (Almedal)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Moelndalsvaegen 85",
+			"machineType": "Vending",
+			"serialNo": "2216006498",
+			"city": "412 85 Goeteborg Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.6382973,
+			59.8602721
+			]
+		},
+		"properties": {
+			"store-name": "F24S Uppsala",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Dragarbrunnsgatan 25",
+			"machineType": "Vending",
+			"serialNo": "2216006499",
+			"city": "753 20 Uppsala Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9526686,
+			57.6962754
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife MW AB (Jaerntorget)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Folkets hus",
+			"machineType": "Vending",
+			"serialNo": "2216006501",
+			"city": "413 04 Goeteborg Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.1881287,
+			57.7809877
+			]
+		},
+		"properties": {
+			"store-name": "F24S Joenkoeping",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "oestra Storgatan 7-9",
+			"machineType": "Vending",
+			"serialNo": "2216006505",
+			"city": "553 21 Joenkoeping Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.77017,
+			55.230381
+			]
+		},
+		"properties": {
+			"store-name": "Fitness Syd Soenderborg",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Grundvigallé 170",
+			"machineType": "Vending",
+			"serialNo": "2216006506",
+			"city": "6400 Soenderborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0363793,
+			59.3457102
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven (Stockholm Vanadisplan)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Gaevlegatan 16",
+			"machineType": "Vending",
+			"serialNo": "2220008768",
+			"city": "113 30 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9277088,
+			57.6702546
+			]
+		},
+		"properties": {
+			"store-name": "SportlifeGym och Bad i Vaest AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Axel Dahlstroems torg",
+			"machineType": "Vending",
+			"serialNo": "2220008769",
+			"city": "414 80 Goeteborg Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.1916769,
+			55.7003064
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Lund Centrum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Stora Soedergatan 8B",
+			"machineType": "Vending",
+			"serialNo": "2220008770",
+			"city": "222 23 Lund Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9178581,
+			57.6928051
+			]
+		},
+		"properties": {
+			"store-name": "SportlifeGym och Bad i Vaest AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Karl Johansgatan 94",
+			"machineType": "Vending",
+			"serialNo": "2220008771",
+			"city": "414 55 Goeteborg Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.9487195,
+			59.4260962
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven (Sollentuna Centrum)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Malmvaegen 6C",
+			"machineType": "Vending",
+			"serialNo": "2220008772",
+			"city": "191 61 Sollentuna"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9976039,
+			57.7149811
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife Olskroken",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Redbergsvaegen 2",
+			"machineType": "Vending",
+			"serialNo": "2220008773",
+			"city": "416 65 Goeteborg  Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.9435777,
+			57.7186686
+			]
+		},
+		"properties": {
+			"store-name": "SportlifeGym och Bad i Vaest AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "oesterlaanggatan 74",
+			"machineType": "Vending",
+			"serialNo": "2220008774",
+			"city": "503 37 Boraas Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.7652569,
+			56.1580493
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Haessleholm",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "oestergatan 7",
+			"machineType": "Vending",
+			"serialNo": "2220008776",
+			"city": "281 31 Haessleholm Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9716136,
+			57.6836552
+			]
+		},
+		"properties": {
+			"store-name": "SportlifeGym och Bad i Vaest AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Dr. Fries torg",
+			"machineType": "Vending",
+			"serialNo": "2220008777",
+			"city": "413 23 Goeteborg Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.9880233,
+			55.613966
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Universitetsholmen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Nordenskioeldsgatan 8",
+			"machineType": "Vending",
+			"serialNo": "2220008778",
+			"city": "211 19 Malmoe Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.9315837,
+			57.7345187
+			]
+		},
+		"properties": {
+			"store-name": "SportlifeGym och Bad i Vaest AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Skaraborgsvaegen 64",
+			"machineType": "Vending",
+			"serialNo": "2220008779",
+			"city": "506 30 Boraas Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.8258163,
+			59.2447617
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven (Botkyrka  Hallunda)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hallunda torg",
+			"machineType": "Vending",
+			"serialNo": "2220008780",
+			"city": "145 68 Norsborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9884608,
+			57.7116524
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Goeteborg Stampen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Friggagatan 16",
+			"machineType": "Vending",
+			"serialNo": "2220008782",
+			"city": "411 01 Goeteborg Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0685808,
+			59.3293235
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven (Stockholm Stureplan)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "David Bagares  gata 7",
+			"machineType": "Vending",
+			"serialNo": "2220008783",
+			"city": "11138 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.0127837,
+			55.6074205
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven (Malmoe Slussen)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "oestra Tullgatan 3",
+			"machineType": "Vending",
+			"serialNo": "2220008784",
+			"city": "211 28 Malmoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0117631,
+			59.3389931
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven (Stockholm Stadshagen)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Warfinges vaeg 26",
+			"machineType": "Vending",
+			"serialNo": "2220008785",
+			"city": "112 51 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.156042,
+			59.307903
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven (Nacka Orminge)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Ormingeplan 2-4",
+			"machineType": "Vending",
+			"serialNo": "2220008786",
+			"city": "132 30 Nacka"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5073123,
+			55.767754
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World Lyngby Hovedgade",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Lyngby Hovedgade 61",
+			"machineType": "Vending",
+			"serialNo": "2220008788",
+			"city": "2800 Lyngby"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.8077577,
+			58.0324191
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife i Vaest AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kungsgatan 45",
+			"machineType": "Vending",
+			"serialNo": "2220008789",
+			"city": "447 30 Vaargaarda Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5219399,
+			57.9573505
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife i Vaest AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Skaanegatan 2",
+			"machineType": "Vending",
+			"serialNo": "2220008790",
+			"city": "441 57 Alingsaas Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.508327,
+			55.7375006
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World Soeborg",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Soeborg Hovedgade 27",
+			"machineType": "Vending",
+			"serialNo": "2220008791",
+			"city": "2860 Soeborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.9655821,
+			59.4114216
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Sollenyuna Helenelund",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Stupvaegen 1",
+			"machineType": "Vending",
+			"serialNo": "2221010177",
+			"city": "191 42 Sollentuna Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.9848496,
+			59.3182817
+			]
+		},
+		"properties": {
+			"store-name": "F24S Huddinge –Vaarby",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vaarby Allé 14",
+			"machineType": "Vending",
+			"serialNo": "2221010178",
+			"city": "143 40 Huddinge"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.0676095,
+			61.306873
+			]
+		},
+		"properties": {
+			"store-name": "F24S Stockholm –Hoetorget",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Sveavaegen 13-15",
+			"machineType": "Vending",
+			"serialNo": "2221010179",
+			"city": "111 57 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0486848,
+			59.3406036
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife Odenplan",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vaestmannagatan 44A",
+			"machineType": "Vending",
+			"serialNo": "2221010181",
+			"city": "113 25 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.355257,
+			55.403692
+			]
+		},
+		"properties": {
+			"store-name": "Gym4You",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Norgevej 8",
+			"machineType": "Vending",
+			"serialNo": "2221010182",
+			"city": "4200 Slagelse"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.566158,
+			56.02905
+			]
+		},
+		"properties": {
+			"store-name": "Managym",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Klostermosevej 123",
+			"machineType": "Vending",
+			"serialNo": "2221010183",
+			"city": "3000 Helsingoer"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.0786867,
+			57.4855819
+			]
+		},
+		"properties": {
+			"store-name": "F24S Kungsbacka -Centrum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Nygatan 17",
+			"machineType": "Vending",
+			"serialNo": "2221010186",
+			"city": "434 30 Kungsbacka"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.1765571,
+			60.1447686
+			]
+		},
+		"properties": {
+			"store-name": "F24S Eskilstuna –Centrum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kungsgatan 21",
+			"machineType": "Vending",
+			"serialNo": "2221010191",
+			"city": "632 20 Eskilstuna Sweden"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0994189,
+			59.3365032
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife oestermalm",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Karlavaegen 100",
+			"machineType": "Vending",
+			"serialNo": "2221010192",
+			"city": "115 26 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9471383,
+			57.7195588
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Kvilletorget",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kvilletorget 15",
+			"machineType": "Vending",
+			"serialNo": "2221010194",
+			"city": "417 04 Goeteborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.9858766,
+			59.3498827
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Huvudsta",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Storgatan 70",
+			"machineType": "Vending",
+			"serialNo": "2221010196",
+			"city": "171 52 Solna"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0384868,
+			59.3159884
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Hornstull",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hornsgatan 150",
+			"machineType": "Vending",
+			"serialNo": "2221010197",
+			"city": "117 28 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			20.954035,
+			64.7500884
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Skellefteaa",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Nygatan 46",
+			"machineType": "Vending",
+			"serialNo": "2221010198",
+			"city": "931 31 Skellefteaa"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0614176,
+			59.3398508
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife Tegnergatan",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Tegnergatan 21",
+			"machineType": "Vending",
+			"serialNo": "2221010199",
+			"city": "111 40 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.508327,
+			55.7375006
+			]
+		},
+		"properties": {
+			"store-name": "F24S Helsingborg –Soeder",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Soedergatan 39",
+			"machineType": "Vending",
+			"serialNo": "2221010204",
+			"city": "252 25 Helsingborg Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.9349063,
+			59.228004
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Huddinge Flemingsberg",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Haelsovaegen 20",
+			"machineType": "Vending",
+			"serialNo": "2221010205",
+			"city": "141 59 Stockholm Sverige"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			20.954035,
+			64.7500884
+			]
+		},
+		"properties": {
+			"store-name": "F24S Maersta –Centrum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Nymaersta Torg 6",
+			"machineType": "Vending",
+			"serialNo": "2221010206",
+			"city": "195 30 Maersta"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.101789,
+			59.3015218
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife Hammarby Sjoestad",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Lugnets alle 1",
+			"machineType": "Vending",
+			"serialNo": "2221010208",
+			"city": "120 65 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.009289,
+			58.7437222
+			]
+		},
+		"properties": {
+			"store-name": "F24S Varberg –Centrum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vaestra Vallgatan 35A",
+			"machineType": "Vending",
+			"serialNo": "2221010209",
+			"city": "432 41 Varberg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5322363,
+			55.6845223
+			]
+		},
+		"properties": {
+			"store-name": "F24S Malmoe –Roersjoestaden",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Henrik Smithsgatan 15A",
+			"machineType": "Vending",
+			"serialNo": "2221010211",
+			"city": "211 56 Malmoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5621265,
+			55.6626556
+			]
+		},
+		"properties": {
+			"store-name": "Fitnessdk Fisketorvet",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kalvebod Brygge 59",
+			"machineType": "Vending",
+			"serialNo": "2221010215",
+			"city": "1560 Koebenhavn V"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.1447089,
+			55.4251781
+			]
+		},
+		"properties": {
+			"store-name": "Bodyline",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "oelandsvej 21",
+			"machineType": "Vending",
+			"serialNo": "2221010219",
+			"city": "4681 Herfoelge"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.14939,
+			55.325763
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World Korsoer",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Nordvangen 3D 2.",
+			"machineType": "Vending",
+			"serialNo": "2221010220",
+			"city": "4220 Korsoer"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.586085,
+			55.603256
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World Nykoebing F",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vestenborg Álle 1",
+			"machineType": "Vending",
+			"serialNo": "2221010221",
+			"city": "4800 Nykoebing F"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5869321,
+			56.0248471
+			]
+		},
+		"properties": {
+			"store-name": "Fitnessdk",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Roennebaer Alle 110",
+			"machineType": "Vending",
+			"serialNo": "2221010222",
+			"city": "3000 Helsingoer"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.4722496,
+			55.8172508
+			]
+		},
+		"properties": {
+			"store-name": "Impuls Motion",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Roejelskjaer 13",
+			"machineType": "Vending",
+			"serialNo": "2221010223",
+			"city": "2840 Holte"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.7671891,
+			57.7234442
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness (Sportslife)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Torslanda Torg 1",
+			"machineType": "Vending",
+			"serialNo": "2311000192",
+			"city": "423 32 Torslanda"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0290508,
+			59.3223907
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife Hornstull",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Laangholmsgatan 9",
+			"machineType": "Vending",
+			"serialNo": "2311000193",
+			"city": "117 33 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.6909254,
+			57.6571147
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness (Sportslife)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Storgatan 54 A",
+			"machineType": "Vending",
+			"serialNo": "2311000194",
+			"city": "571 33 Naessjoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.4693947,
+			59.3246275
+			]
+		},
+		"properties": {
+			"store-name": "Optimal Training World Wide AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Idrottsvaegen 2",
+			"machineType": "Vending",
+			"serialNo": "2311000196",
+			"city": "663 34 Skoghall"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.791372,
+			55.442952
+			]
+		},
+		"properties": {
+			"store-name": "F24S Boden –Solna",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Huvudstagatan 4",
+			"machineType": "Vending",
+			"serialNo": "2311000197",
+			"city": "171 58 Solna"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.7502831,
+			60.3452822
+			]
+		},
+		"properties": {
+			"store-name": "Maa Baettre Saetra",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Jaernvaegsgatan 22",
+			"machineType": "Vending",
+			"serialNo": "2311000198",
+			"city": "783 30 Saeter"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5391905,
+			57.9296829
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness (Sportslife)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kungsgatan 33",
+			"machineType": "Vending",
+			"serialNo": "2311000199",
+			"city": "441 41 Alingsaas"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0534692,
+			59.3176247
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness Hornsgatan",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hornsgatan 67",
+			"machineType": "Vending",
+			"serialNo": "2311000200",
+			"city": "118 49 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.016643,
+			57.6556792
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness (Sportslife)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Brogatan 1",
+			"machineType": "Vending",
+			"serialNo": "2311000201",
+			"city": "431 30 Moelndal"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.0765157,
+			57.9193649
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness (Sportslife)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Joenkoepingsgatan 12",
+			"machineType": "Vending",
+			"serialNo": "2311000202",
+			"city": "566 31 Habo"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.1377911,
+			57.8674925
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness (Sportslife)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Sjoeaakravaegen 25",
+			"machineType": "Vending",
+			"serialNo": "2311000205",
+			"city": "564 31 Bankeryd"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.275315,
+			57.7903939
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness (Sportslife)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kungsgatan 35",
+			"machineType": "Vending",
+			"serialNo": "2311000206",
+			"city": "561 31 Huskvarna"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.1881287,
+			57.7809877
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness (Sportslife)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "oestra Storgatan 34",
+			"machineType": "Vending",
+			"serialNo": "2311000207",
+			"city": "553 21 Joenkoeping"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.1627917,
+			57.7829535
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness (Sportslife)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Barnarpsgatan 12",
+			"machineType": "Vending",
+			"serialNo": "2311000208",
+			"city": "553 16 Joenkoeping"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.0506946,
+			57.4953312
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness (Sportslife)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Borgaas Gaardsv.1",
+			"machineType": "Vending",
+			"serialNo": "2311000209",
+			"city": "434 39 Kungsbacka"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.0783006,
+			57.5755218
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness (Sportslife)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Almaasgaangen 1",
+			"machineType": "Vending",
+			"serialNo": "2311000210",
+			"city": "437 30 Lindome"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.475386,
+			55.642522
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World Hvidovre",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hvidovre Stationsvej 143 1Sal",
+			"machineType": "Vending",
+			"serialNo": "2311000211",
+			"city": "2650 Hvidovre"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.2179595,
+			55.5342598
+			]
+		},
+		"properties": {
+			"store-name": "Fitness4Life",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Solroed Center",
+			"machineType": "Vending",
+			"serialNo": "2311000214",
+			"city": "2680 Solroed"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.577176,
+			55.662682
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World Kigkurren",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kigkurren 1",
+			"machineType": "Vending",
+			"serialNo": "2311000215",
+			"city": "2300 Koebenhavn S"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.631056,
+			63.1804559
+			]
+		},
+		"properties": {
+			"store-name": "Golds Fyrvalla",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Fyrvallavaegen 4",
+			"machineType": "Vending",
+			"serialNo": "2312000924",
+			"city": "831 30 oestersund"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.1350816,
+			56.1389262
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Jaernvaegsgatan 31",
+			"machineType": "Vending",
+			"serialNo": "2312000926",
+			"city": "264 33 Klippan"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.6460404,
+			63.1746934
+			]
+		},
+		"properties": {
+			"store-name": "Fristilen oestersund",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Regementsgatan 31",
+			"machineType": "Vending",
+			"serialNo": "2312000927",
+			"city": "831 35 oestersund"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5722265,
+			56.189811
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Sporthallsvaegen 2B",
+			"machineType": "Vending",
+			"serialNo": "2312000928",
+			"city": "263 34 Hoeganaes"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.9654009,
+			55.5917028
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Trollenaesgatan 2",
+			"machineType": "Vending",
+			"serialNo": "2312000929",
+			"city": "217 73 Malmoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.8591279,
+			56.6752565
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Storgatan 28-30",
+			"machineType": "Vending",
+			"serialNo": "2312000930",
+			"city": "302 43 Halmstad"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.7313154,
+			56.0794009
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Lilla garnisonsgatan 37",
+			"machineType": "Vending",
+			"serialNo": "2312000931",
+			"city": "254 67 Helsingborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.7788071,
+			60.0016393
+			]
+		},
+		"properties": {
+			"store-name": "Arena Fagersta",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kristiansbergsvaegen 2",
+			"machineType": "Vending",
+			"serialNo": "2312000932",
+			"city": "737 40 Fagersta"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.0815059,
+			63.3990428
+			]
+		},
+		"properties": {
+			"store-name": "Golds aare",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kurortsvaegen 20",
+			"machineType": "Vending",
+			"serialNo": "2312000933",
+			"city": "830 13 aare"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.7256653,
+			56.0284284
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Elinebergsplatsen 5",
+			"machineType": "Vending",
+			"serialNo": "2312000936",
+			"city": "256 68 Helsingborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.1765571,
+			60.1447686
+			]
+		},
+		"properties": {
+			"store-name": "Maa Baettre Avesta",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kungsgatan 2",
+			"machineType": "Vending",
+			"serialNo": "2312000939",
+			"city": "774 30 Avesta"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.2219772,
+			58.9949411
+			]
+		},
+		"properties": {
+			"store-name": "Viking Sport & Nutrition (Byttet med pro nova)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Fixgatan 3",
+			"machineType": "Vending",
+			"serialNo": "2312000940",
+			"city": "641 33 Katrineholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.848926,
+			55.594178
+			]
+		},
+		"properties": {
+			"store-name": "Bodywork Hvalsoe",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "aasvejen 36",
+			"machineType": "Vending",
+			"serialNo": "2312000941",
+			"city": "4330 Hvalsoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.9869377,
+			55.5930926
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kronborgsvaegen 5",
+			"machineType": "Vending",
+			"serialNo": "2312000942",
+			"city": "217 42 Malmoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.9981261,
+			55.5938292
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Raadmangatan 12A",
+			"machineType": "Vending",
+			"serialNo": "2312000943",
+			"city": "211 46 Malmoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0290508,
+			59.3223907
+			]
+		},
+		"properties": {
+			"store-name": "NW Lidingoe – Larsberg",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Larsbergstorget 9",
+			"machineType": "Vending",
+			"serialNo": "2313001419",
+			"city": "181 39 Lidingoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.0034602,
+			55.5971353
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Spaangatan",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Spaangatan 7",
+			"machineType": "Vending",
+			"serialNo": "2313001420",
+			"city": "211 44 Malmoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9437662,
+			57.6988216
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Masthugget",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Masthuggstorget 2",
+			"machineType": "Vending",
+			"serialNo": "2313001421",
+			"city": "413 27 Goeteborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.187706,
+			58.5872217
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Norrkoeping",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Praestgatan 12",
+			"machineType": "Vending",
+			"serialNo": "2313001423",
+			"city": "602 32 Norrkoeping"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.0529514,
+			55.5850939
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Rosengaard",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Thomaons Vaeg 28",
+			"machineType": "Vending",
+			"serialNo": "2313001424",
+			"city": "213 73 Malmoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.9784183,
+			55.5934792
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Dammfri",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Koepenhamnsvaegen 6",
+			"machineType": "Vending",
+			"serialNo": "2313001426",
+			"city": "217 43 Malmoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.166888,
+			58.5880723
+			]
+		},
+		"properties": {
+			"store-name": "World Class Pro Nova (Byttet med Viking)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "St. Petersgatan 19",
+			"machineType": "Vending",
+			"serialNo": "2313001427",
+			"city": "602 33 Norrkoeping"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0673938,
+			59.3343409
+			]
+		},
+		"properties": {
+			"store-name": "F24S Stockholm Regeringsgatan",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Regeringsgatan 59",
+			"machineType": "Vending",
+			"serialNo": "2313001430",
+			"city": "111 56 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.0494425,
+			57.7983453
+			]
+		},
+		"properties": {
+			"store-name": "Mer I Goeteborg AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Storaas Industrigatan 20",
+			"machineType": "Vending",
+			"serialNo": "2313001431",
+			"city": "424 69 Angered"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.9803625,
+			55.6173135
+			]
+		},
+		"properties": {
+			"store-name": "NW Malmoe Vaestra Hamnen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Riggaregatan 37",
+			"machineType": "Vending",
+			"serialNo": "2313001433",
+			"city": "Malmoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.5328932,
+			59.563902
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Haabo/Baalsta",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Centrumstraaket 1",
+			"machineType": "Vending",
+			"serialNo": "2313001434",
+			"city": "746 32 Baalsta"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.3638844,
+			59.3165214
+			]
+		},
+		"properties": {
+			"store-name": "Body Joy Gustavsbergs hamn",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Odelbergsvaeg 19",
+			"machineType": "Vending",
+			"serialNo": "2313001437",
+			"city": "134 40 Gustavsberg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5287294,
+			55.714619
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Tomsgaarsvej 15-17",
+			"machineType": "Vending",
+			"serialNo": "2317005603",
+			"city": "2400 Koebenhavn NV"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.6094233,
+			55.6571378
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Amager",
+			"marker-size": "small",
+			"marker-symbol": "2",
+			"marker-color": "#5ab4ac",
+			"address": "Rued Langgaardsvej 2C",
+			"machineType": "Vending",
+			"serialNo": "2317005604-2317005610",
+			"city": "2300 Koebenhavn"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.4032062,
+			57.7793069
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness Ulricehamn",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Strandvaegen 30",
+			"machineType": "Vending",
+			"serialNo": "2317005607",
+			"city": "523 31 Ulricehamn"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.1096064,
+			59.3093556
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Kristinehamn",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Nya Kyrkogatan 19",
+			"machineType": "Vending",
+			"serialNo": "2317005608",
+			"city": "681 30 Kristinehamn"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.7001393,
+			59.7572634
+			]
+		},
+		"properties": {
+			"store-name": "Odenplan Gym AB - NW Norrtaelje",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Tullportsgatan 12",
+			"machineType": "Vending",
+			"serialNo": "2317005609",
+			"city": "761 30 NORRTaeLJE"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5570356,
+			55.6708082
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Gasvaerksvej 16",
+			"machineType": "Vending",
+			"serialNo": "2317005611",
+			"city": "1656 Koebenhavn V"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.9871076,
+			60.2783963
+			]
+		},
+		"properties": {
+			"store-name": "Maa baettre Gaevle",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Nygatan 33",
+			"machineType": "Vending",
+			"serialNo": "2317005612",
+			"city": "80311 Gaevle"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.4432608,
+			55.6703696
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness Roedovre",
+			"marker-size": "small",
+			"marker-symbol": "3",
+			"marker-color": "#5ab4ac",
+			"address": "Roskildevej 398",
+			"machineType": "Vending",
+			"serialNo": "2317005613-2317005623-2317005632",
+			"city": "2610 Roedovre"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.4357701,
+			60.4870723
+			]
+		},
+		"properties": {
+			"store-name": "Maa Baettre Borlaenge",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Borganaesvaegen 48",
+			"machineType": "Vending",
+			"serialNo": "2317005614",
+			"city": "784 33 Borlaenge"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.303941,
+			62.3895239
+			]
+		},
+		"properties": {
+			"store-name": "Stargym",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Traedgaardsgatan 32",
+			"machineType": "Vending",
+			"serialNo": "2317005616",
+			"city": "852 32 Sundsvall"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.1122499,
+			59.3424775
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Gaerdet",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Tegeluddsvaegen 80",
+			"machineType": "Vending",
+			"serialNo": "2317005618",
+			"city": "115 28 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.1916769,
+			55.7003064
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Lund",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Stora Soedergatan 8",
+			"machineType": "Vending",
+			"serialNo": "2317005620",
+			"city": "222 23 Lund"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.939819,
+			57.721035
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Viaredsvaegen 4A",
+			"machineType": "Vending",
+			"serialNo": "2317005621",
+			"city": "504 64 Boraas"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.091568,
+			59.3079748
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Vintertullstorget",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vintertullstorget 76",
+			"machineType": "Vending",
+			"serialNo": "2317005622",
+			"city": "116 43 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			20.2564923,
+			63.8261459
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Umeaa",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Storgatan 43",
+			"machineType": "Vending",
+			"serialNo": "2317005626",
+			"city": "903 26 Umeaa"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.791372,
+			55.442952
+			]
+		},
+		"properties": {
+			"store-name": "Crossfit Ringsted",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Huginsvej 13 B, 4100 Ringsted",
+			"machineType": "Vending",
+			"serialNo": "2317005627",
+			"city": "4100 Ringsted"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5839433,
+			55.682038
+			]
+		},
+		"properties": {
+			"store-name": "Sporting Health Club",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Gothersgade 14",
+			"machineType": "Vending",
+			"serialNo": "2317005629",
+			"city": "1123 Koebenhavn K"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.0676095,
+			61.306873
+			]
+		},
+		"properties": {
+			"store-name": "Active Sportsclub",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Styrmansgatan 4B",
+			"machineType": "Vending",
+			"serialNo": "2317005630",
+			"city": "826 37 Soederhamn"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.7200146,
+			63.2884878
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness oernskoeldsvik",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Viktoriaesplananden 8",
+			"machineType": "Vending",
+			"serialNo": "2317005631",
+			"city": "891 33 oernskoeldsvik"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.5114977,
+			59.4021806
+			]
+		},
+		"properties": {
+			"store-name": "Svenska Nergy AB (STC Karlstad jaernvaegsgatan 2 nr.2)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Jaernvaegsgatan 2",
+			"machineType": "Vending",
+			"serialNo": "2317005633",
+			"city": "65113 Karlstad"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9285578,
+			57.7098345
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Sannegaarden",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vintergatan 4",
+			"machineType": "Vending",
+			"serialNo": "2317005634",
+			"city": "417 58 Goeteborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.9739159,
+			59.3559258
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Solna Strand",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Torggatan 8",
+			"machineType": "Vending",
+			"serialNo": "2317005635",
+			"city": "171 54 Solna"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.4357701,
+			60.4870723
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Borlaenge",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Borganaesvaegen 38",
+			"machineType": "Vending",
+			"serialNo": "2317005636",
+			"city": "784 33 Borlaenge"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.009289,
+			58.7437222
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness Nykoeping",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vaestra Torg 13",
+			"machineType": "Vending",
+			"serialNo": "2317005640",
+			"city": "611 31 Nykoeping"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.0170578,
+			57.7278716
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven Gamlestaden",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Rullagergatan 4",
+			"machineType": "Vending",
+			"serialNo": "2317005641",
+			"city": "415 26 Goeteborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.2068387,
+			58.5763051
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness Norrkoeping Mirium Galleria",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Lidaleden 2, Plan 4",
+			"machineType": "Vending",
+			"serialNo": "2317005642",
+			"city": "603 59 Norrkoeping"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.4554706,
+			55.6784797
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World Roedovre",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Roedovre Centrum 202",
+			"machineType": "Vending",
+			"serialNo": "2317005643",
+			"city": "2610 Roedovre"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5115039,
+			55.6647518
+			]
+		},
+		"properties": {
+			"store-name": "Fitnessdk Valby",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Valby Torvegade 17, 1.",
+			"machineType": "Vending",
+			"serialNo": "2317005646",
+			"city": "2500 Valby"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.3531229,
+			55.4053556
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World Slagelse",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Jernbanegade 5",
+			"machineType": "Vending",
+			"serialNo": "2317005650",
+			"city": "4200 Slagelse"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.7889054,
+			55.4528484
+			]
+		},
+		"properties": {
+			"store-name": "Key2fitness",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Klosterparks alle 10",
+			"machineType": "Vending",
+			"serialNo": "2319005948",
+			"city": "4100 Ringsted"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.475386,
+			55.642522
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Biblioteksvej 58",
+			"machineType": "Vending",
+			"serialNo": "2319005949",
+			"city": "2650 Hvidovre"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5806931,
+			55.7271545
+			]
+		},
+		"properties": {
+			"store-name": "Microsoft HQ",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Tuborg Boulevard 12, 1 sal",
+			"machineType": "Vending",
+			"serialNo": "2319005950",
+			"city": "2900  Hellerup"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.1757524,
+			55.4752608
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Tigervej 12-14",
+			"machineType": "Vending",
+			"serialNo": "2319005951",
+			"city": "4600 Koege"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.911565,
+			55.012347
+			]
+		},
+		"properties": {
+			"store-name": "Work It up",
+			"marker-size": "small",
+			"marker-symbol": "2",
+			"marker-color": "#5ab4ac",
+			"address": "Bryggervangen 8",
+			"machineType": "Vending",
+			"serialNo": "2319005952-2416006650",
+			"city": "4760 Vordingborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.599586,
+			55.624387
+			]
+		},
+		"properties": {
+			"store-name": "CPH Fitness",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Praestefaelledvej 16",
+			"machineType": "Vending",
+			"serialNo": "2319005954",
+			"city": "2770 Kastrup"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.5934079,
+			60.582915
+			]
+		},
+		"properties": {
+			"store-name": "Mae Baettre Falun",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Grunvgatan 7",
+			"machineType": "Vending",
+			"serialNo": "2319005977",
+			"city": "791 61 Falun"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.558953,
+			55.433914
+			]
+		},
+		"properties": {
+			"store-name": "WorkZone",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vedelsgade 7",
+			"machineType": "Vending",
+			"serialNo": "2319005979",
+			"city": "4180 Soroe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.2134105,
+			59.2752626
+			]
+		},
+		"properties": {
+			"store-name": "Actic Lund - Kompassen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Stortorget 7",
+			"machineType": "Vending",
+			"serialNo": "2319005984",
+			"city": "70211 oerebro"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.087845,
+			55.64191
+			]
+		},
+		"properties": {
+			"store-name": "Leifclub Roskilde",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hyldehoej Bygade 6",
+			"machineType": "Vending",
+			"serialNo": "2319005988",
+			"city": "4000  Roskilde"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.9871076,
+			60.2783963
+			]
+		},
+		"properties": {
+			"store-name": "Mae Baettre Hedemora",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Nygatan 3",
+			"machineType": "Vending",
+			"serialNo": "2319005989",
+			"city": "776 30 Hedemora"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.306927,
+			62.390811
+			]
+		},
+		"properties": {
+			"store-name": "Sportsgym Sundsvall",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Medborgergatan 27",
+			"machineType": "Vending",
+			"serialNo": "2319005990",
+			"city": "69330 Sundsvall"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.586085,
+			55.603256
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vest Amagercenteret, Ugandavej 111-123",
+			"machineType": "Vending",
+			"serialNo": "2413002444",
+			"city": "2770 Kastrup"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.982613,
+			55.5609679
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife Gym och Bad i Vaest AB - Nordic Wellness Emporia",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hylliebouevarden 12 ,215 32 MALMoe ( Hyllie)",
+			"machineType": "Vending",
+			"serialNo": "2416006642",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5467201,
+			55.6717129
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness - Vesterbro",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vesterbrogade 97",
+			"machineType": "Vending",
+			"serialNo": "2416006643",
+			"city": "1620 Koebenhavn V"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.5160581,
+			59.3699167
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife Gym och Bad i Vaest AB - Nordic Wellness Eskilstuna",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kungsgatan 6-8 ,632 20 Eskilstuna",
+			"machineType": "Vending",
+			"serialNo": "2416006645",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0740139,
+			59.296242
+			]
+		},
+		"properties": {
+			"store-name": "World Class Express Tele2",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Arenaslingan 3",
+			"machineType": "Vending",
+			"serialNo": "2416006646",
+			"city": "121 26 Johanneshov"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0685808,
+			59.3293235
+			]
+		},
+		"properties": {
+			"store-name": "Actic Hammarby Sjoestad 9040",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Skeppsmaeklargatan 1, 12069 STOCKHOLM",
+			"machineType": "Vending",
+			"serialNo": "2416006647",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5768162,
+			55.6810359
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness - Koebenhavn K",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Koebmagergade 48",
+			"machineType": "Vending",
+			"serialNo": "2416006648",
+			"city": "1150 Koebenhavn K"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.458097,
+			55.6789479
+			]
+		},
+		"properties": {
+			"store-name": "Fw roedo+B88:J89vre",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Roedovre centrum 200",
+			"machineType": "Vending",
+			"serialNo": "2416006649",
+			"city": "2610 Roedovre"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.5185705,
+			59.3829576
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven SE -Eskilstuna aarby",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "aarbygatan 3, 633 45 Eskilstuna",
+			"machineType": "Vending",
+			"serialNo": "2416006652",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9984319,
+			57.7167091
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven SE -Goeteborg Olskroken",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hoekegatan 30, 416 66 Goeteborg",
+			"machineType": "Vending",
+			"serialNo": "2416006653",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.569196,
+			55.736654
+			]
+		},
+		"properties": {
+			"store-name": "Wellcome Fitness",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Waterfront Shoppingcenter - Tuborg Havnevej 4-6 1. sal",
+			"machineType": "Vending",
+			"serialNo": "2416006655",
+			"city": "2900 Hellerup"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.421819,
+			55.622269
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Broendby Strand Centrum 50",
+			"machineType": "Vending",
+			"serialNo": "2416006658",
+			"city": "2660 Broendby Strand"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5683371,
+			55.6760968
+			]
+		},
+		"properties": {
+			"store-name": "Rosenborg - Livgarden",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Gothersgade 100",
+			"machineType": "Vending",
+			"serialNo": "2416006659",
+			"city": "1015 Koebenhavn K"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.77017,
+			55.230381
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Groenvej 3",
+			"machineType": "Vending",
+			"serialNo": "2416006662",
+			"city": "4700 Naestved"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5231196,
+			55.6501712
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness - Ellebjerg",
+			"marker-size": "small",
+			"marker-symbol": "2",
+			"marker-color": "#5ab4ac",
+			"address": "Ellebjergvej 40",
+			"machineType": "Vending",
+			"serialNo": "2417007659-2417007660",
+			"city": "2450 Koebenhavn SV"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.9663093,
+			59.3670471
+			]
+		},
+		"properties": {
+			"store-name": "Actic Hallonbergen 9155",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hallonbergsplan 5, 17452 SUNDBYBERG",
+			"machineType": "Vending",
+			"serialNo": "2417007661",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0393284,
+			59.34675
+			]
+		},
+		"properties": {
+			"store-name": "Actic Elite",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "S:t Eriksgatan 115",
+			"machineType": "Vending",
+			"serialNo": "2417007662",
+			"city": "113 43 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.0440267,
+			58.7508043
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife Gym och Bad i Vaest AB - Nordic Wellness Nykoeping Rosvalla",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Idrottsvaegen Rosvalla Arena, 611 62 NYKoePING",
+			"machineType": "Vending",
+			"serialNo": "2417007665",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.6581941,
+			60.6192581
+			]
+		},
+		"properties": {
+			"store-name": "Actic Falun",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Lugnetvaegen 5,",
+			"machineType": "Vending",
+			"serialNo": "2417007666",
+			"city": "791 83 Falun"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0705928,
+			59.311614
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness Soedermalm",
+			"marker-size": "small",
+			"marker-symbol": "3",
+			"marker-color": "#5ab4ac",
+			"address": "Magnus Ladulaasgatan 65",
+			"machineType": "Vending",
+			"serialNo": "2417007667-2417007669-2417007675",
+			"city": "118 27 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.8058522,
+			56.8790044
+			]
+		},
+		"properties": {
+			"store-name": "AB Cypressen / CC Gym AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Storgatan 88",
+			"machineType": "Vending",
+			"serialNo": "2417007668",
+			"city": "35246 Vaexjoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.2904801,
+			58.2853013
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven SE -Trollhaettan Centrum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kungsgatan 33, 461 30 Trollhaettan",
+			"machineType": "Vending",
+			"serialNo": "2417007671",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.6945121,
+			56.0464674
+			]
+		},
+		"properties": {
+			"store-name": "Filborna Arena AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Filbornavaegen 101a",
+			"machineType": "Vending",
+			"serialNo": "2417007672",
+			"city": "25661 Helsingborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.356779,
+			56.6634447
+			]
+		},
+		"properties": {
+			"store-name": "Kalmar Fitnesscenter i Kopparslageren AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Fiskeragatan 8",
+			"machineType": "Vending",
+			"serialNo": "2417007673",
+			"city": "39232 Kalmar"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.3253898,
+			58.3833741
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven SE -Vaenersborg Centrum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Edsgatan 27, 462 30 Vaenersborg",
+			"machineType": "Vending",
+			"serialNo": "2417007676",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.6402677,
+			57.7582431
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven SE -Vaestervik Centrum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kvarngatan 12, 593 30 Vaestervik",
+			"machineType": "Vending",
+			"serialNo": "2417007677",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.8286943,
+			59.6161407
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven SE -Maersta Valsta C",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hammargatan 6, 195 53 Maersta",
+			"machineType": "Vending",
+			"serialNo": "2417007679",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.2057756,
+			55.6424339
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven SE -Staffanstorp Centrum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Apoteksgatan 9, 245 31 Staffanstorp",
+			"machineType": "Vending",
+			"serialNo": "2417007680",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			20.2630354,
+			63.8258471
+			]
+		},
+		"properties": {
+			"store-name": "Boxen Umeaa",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Bjoernvaegen 17",
+			"machineType": "Vending",
+			"serialNo": "2417007683",
+			"city": "Umeaa"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.0138033,
+			57.6713541
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife Gym och Bad i Vaest AB - Nordic Wellness Krokslaett",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Goeteborgsvaegen 95 , Plan 1 , 431 37 Moelndal",
+			"machineType": "Vending",
+			"serialNo": "2417007684",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.0001091,
+			55.6048193
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven SE -Malmoe Lilla Torg",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Skomakaregatan 5, 211 34 Malmoe",
+			"machineType": "Vending",
+			"serialNo": "2417007686",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.8577884,
+			56.6743748
+			]
+		},
+		"properties": {
+			"store-name": "Actic Flygstaden, Halmstad",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kristinebergsvaegen 24,",
+			"machineType": "Vending",
+			"serialNo": "2417008190",
+			"city": "30241 Halmstad"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0414941,
+			59.2646197
+			]
+		},
+		"properties": {
+			"store-name": "Actic Hoegdalen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Rangstaplan ,",
+			"machineType": "Vending",
+			"serialNo": "2417008191",
+			"city": "12454 Bandhagen"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.192421,
+			58.587745
+			]
+		},
+		"properties": {
+			"store-name": "Actic Norrkoeping 9019",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Dalsgatan 7, 60232 NORRKoePING",
+			"machineType": "Vending",
+			"serialNo": "2417008192",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.2520907,
+			57.107118
+			]
+		},
+		"properties": {
+			"store-name": "Actic Varberg Friskvaagen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Strandgatan 5,",
+			"machineType": "Vending",
+			"serialNo": "2417008194",
+			"city": "43244 Varberg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.9848496,
+			59.3182817
+			]
+		},
+		"properties": {
+			"store-name": "World Class Express Stora Essingen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vaenskapsvaegen 33",
+			"machineType": "Vending",
+			"serialNo": "2417008195",
+			"city": "112 65 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.0470936,
+			58.5380335
+			]
+		},
+		"properties": {
+			"store-name": "Actic Motala City",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Praestgatan 4,",
+			"machineType": "Vending",
+			"serialNo": "2417008198",
+			"city": "59130 Motala"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.6389267,
+			59.8585638
+			]
+		},
+		"properties": {
+			"store-name": "Actic Centralbadet i Uppsala 9110",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "S:t Persgatan 4, 75320 UPPSALA",
+			"machineType": "Vending",
+			"serialNo": "2417008199",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.6389267,
+			59.8585638
+			]
+		},
+		"properties": {
+			"store-name": "Actic Centralgym i Uppsala 9111 1",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Saebygatan 5, 75323 UPPSALA",
+			"machineType": "Vending",
+			"serialNo": "2417008200",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.7746473,
+			60.6229859
+			]
+		},
+		"properties": {
+			"store-name": "Maa Baettre Sandviken",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hyttgatan 37B",
+			"machineType": "Vending",
+			"serialNo": "2417008201",
+			"city": "811 31 Sandviken"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0478685,
+			59.3841662
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven SE -Danderyd Stocksund",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Stockholmsvaegen 43, 182 78 Stocksund",
+			"machineType": "Vending",
+			"serialNo": "2417008202",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.636212,
+			59.1888336
+			]
+		},
+		"properties": {
+			"store-name": "Actic Sydpoolen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "oestra Kanalgatan 2,",
+			"machineType": "Vending",
+			"serialNo": "2417008203",
+			"city": "152 71 Soedertaelje"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.8058522,
+			56.8790044
+			]
+		},
+		"properties": {
+			"store-name": "Actic Vaexjoe 9186",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hejaregatan 1, 35246 VaeXJoe",
+			"machineType": "Vending",
+			"serialNo": "2417008204",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0515894,
+			59.2678465
+			]
+		},
+		"properties": {
+			"store-name": "World Class Express Hagsaetra",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Hagsaetra Torg 8",
+			"machineType": "Vending",
+			"serialNo": "2417008205",
+			"city": "124 73 Bandhagen"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.8417053,
+			58.3965458
+			]
+		},
+		"properties": {
+			"store-name": "Actic Skoevde Arena",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Egnells Vaeg 1,",
+			"machineType": "Vending",
+			"serialNo": "2417008209",
+			"city": "541 40 Skoevde"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.8294346,
+			58.0678388
+			]
+		},
+		"properties": {
+			"store-name": "Svenska Nergy AB (STC - Stenungsund Lilla Strandvaegen)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Lilla strandvaegen 2",
+			"machineType": "Vending",
+			"serialNo": "2421011271",
+			"city": "44431 stenungsund"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.8294346,
+			58.0678388
+			]
+		},
+		"properties": {
+			"store-name": "Svenska Nergy AB (STC - Stenungsund Strandvaegen)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "strandvaegen 35",
+			"machineType": "Vending",
+			"serialNo": "2421011275",
+			"city": "44431 stenungsund"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.5858268,
+			56.1625482
+			]
+		},
+		"properties": {
+			"store-name": "F24S Karlskrona Centrum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Ronnebygatan 44, 371 33 Karlskrona",
+			"machineType": "Vending",
+			"serialNo": "2421011281",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.935649,
+			58.3498003
+			]
+		},
+		"properties": {
+			"store-name": "Svenska Nergy AB (STC - Uddevalla)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Bastionsgatan 18",
+			"machineType": "Vending",
+			"serialNo": "2421011284",
+			"city": "45150 Uddevalla"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.1616418,
+			58.424323
+			]
+		},
+		"properties": {
+			"store-name": "PL Haelsocenter AB (STC - Tibro)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Storgatan 36",
+			"machineType": "Vending",
+			"serialNo": "2421011287",
+			"city": "54332 Tibro"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.9880233,
+			55.613966
+			]
+		},
+		"properties": {
+			"store-name": "F24S Malmoe Vaestra Hamnen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vaestra Varvsgatan 19, 211 19 Malmoe",
+			"machineType": "Vending",
+			"serialNo": "2421011291",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.0101862,
+			55.5840651
+			]
+		},
+		"properties": {
+			"store-name": "F24S Malmoe Dalaplan",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Ystadvaegen 13, 214 30 Malmoe",
+			"machineType": "Vending",
+			"serialNo": "2421011292",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.5114977,
+			59.4021806
+			]
+		},
+		"properties": {
+			"store-name": "Svenska Nergy AB (STC - Karlstad Kasernhoejden)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kasernhoejden 14",
+			"machineType": "Vending",
+			"serialNo": "2421011293",
+			"city": "65339 Karlstad"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5532982,
+			55.6840317
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World, Forum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Worsaaesvej 17, 1. sal",
+			"machineType": "Vending",
+			"serialNo": "2421011497",
+			"city": "1972 Frederiksberg C"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.562184,
+			55.66837
+			]
+		},
+		"properties": {
+			"store-name": "Butchers Lab",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Staldgade 22",
+			"machineType": "Vending",
+			"serialNo": "2421011499",
+			"city": "1699 Koebenhavn V"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.0986397,
+			55.6410858
+			]
+		},
+		"properties": {
+			"store-name": "Fitnessdk Roskilde",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Ro's Torv, Koebenhavnsvej 29",
+			"machineType": "Vending",
+			"serialNo": "2421011501",
+			"city": "Roskilde"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.169767,
+			55.845994
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Idraetsvej 5, 1. sal",
+			"machineType": "Vending",
+			"serialNo": "2421011505",
+			"city": "3550 Slangerup"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.401322,
+			55.979118
+			]
+		},
+		"properties": {
+			"store-name": "FW Fredensborg",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Tinghusvej 4B, ",
+			"machineType": "Vending",
+			"serialNo": "2421011508",
+			"city": "3480 Fredensborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.361476,
+			55.782225
+			]
+		},
+		"properties": {
+			"store-name": "FW Vaerloese",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kirke Vaerloesevej 32",
+			"machineType": "Vending",
+			"serialNo": "2421011510",
+			"city": "3500 Vaerloese"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.775918,
+			60.621607
+			]
+		},
+		"properties": {
+			"store-name": "F24S Sandviken Centrum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Koepmangatan 18, 81139 Sandviken",
+			"machineType": "Vending",
+			"serialNo": "2422012496",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.1854408,
+			60.1493312
+			]
+		},
+		"properties": {
+			"store-name": "F24S Ludvika Centrum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Engelbrektsgatan 3, 771 30 Ludvika",
+			"machineType": "Vending",
+			"serialNo": "2422012501",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0047968,
+			59.3624402
+			]
+		},
+		"properties": {
+			"store-name": "F24S Solna Raasunda",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kruthusbacken 48, 169 52 Solna",
+			"machineType": "Vending",
+			"serialNo": "2422012502",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0117631,
+			59.3389931
+			]
+		},
+		"properties": {
+			"store-name": "NW - Lindhagen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Nordenflychtsvaegen 60, Plan 5 , 112 51 STOCKHOLM",
+			"machineType": "Vending",
+			"serialNo": "2422012503",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0767429,
+			59.3108484
+			]
+		},
+		"properties": {
+			"store-name": "F24S Stockholm Soedermalm",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Blekingegatan 63, 116 62 Stockholm",
+			"machineType": "Vending",
+			"serialNo": "2422012504",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.6470609,
+			59.8777023
+			]
+		},
+		"properties": {
+			"store-name": "NW -Uppsala",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Heidenstamstorget 69, 754 27 UPPSALA",
+			"machineType": "Vending",
+			"serialNo": "2422012505",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.2393551,
+			59.2588841
+			]
+		},
+		"properties": {
+			"store-name": "F24S oerebro Tybble C",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Drakenbergsgatan 1B 702 19 oerebro",
+			"machineType": "Vending",
+			"serialNo": "2422012506",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.913551,
+			59.4727647
+			]
+		},
+		"properties": {
+			"store-name": "F24S Sollentuna Rotebro",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kung Hans Vaeg 12, 192 68 Sollentuna",
+			"machineType": "Vending",
+			"serialNo": "2422012510",
+			"city": ""
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.3299939,
+			56.1110796
+			]
+		},
+		"properties": {
+			"store-name": "Fitnessworld Gilleleje",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Fiskerbakken 15",
+			"machineType": "Vending",
+			"serialNo": "2422012512",
+			"city": "3250 Gilleleje"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.416353,
+			55.725406
+			]
+		},
+		"properties": {
+			"store-name": "FW Herlev",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Noerrelundvej 4",
+			"machineType": "Vending",
+			"serialNo": "2422012513",
+			"city": "2730 Herlev"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.28532,
+			55.932972
+			]
+		},
+		"properties": {
+			"store-name": "Fitnessworld Hilleroed Frejasvej",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Frejasvej 32-38",
+			"machineType": "Vending",
+			"serialNo": "2422012518",
+			"city": "3400 Hilleroed"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.28532,
+			55.932972
+			]
+		},
+		"properties": {
+			"store-name": "FW Frejasvej",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Frejasvej 32-34",
+			"machineType": "Vending",
+			"serialNo": "2511000193",
+			"city": "3400 Hilleroed"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.480966,
+			55.709501
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World Husum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Frederikssundsvej 264",
+			"machineType": "Vending",
+			"serialNo": "2511000195",
+			"city": "2700 Husum"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.241408,
+			55.5985117
+			]
+		},
+		"properties": {
+			"store-name": "Fitness World Hundige",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Over Boeljen 20",
+			"machineType": "Vending",
+			"serialNo": "2511000198",
+			"city": "2670 Greve"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.9086806,
+			56.7437998
+			]
+		},
+		"properties": {
+			"store-name": "Malkars Traeningscenter AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Norravaegen 2",
+			"machineType": "Vending",
+			"serialNo": "2511000202",
+			"city": "38237 Nybro"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.301729,
+			55.74058
+			]
+		},
+		"properties": {
+			"store-name": "Dit velvaere v. Rikke Thomsen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Flodvej 75 B",
+			"machineType": "Vending",
+			"serialNo": "2511000203",
+			"city": "2765 Smoerumnedre"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5136574,
+			55.6673325
+			]
+		},
+		"properties": {
+			"store-name": "Fitness world Valby",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Mosedalvej 11",
+			"machineType": "Vending",
+			"serialNo": "2511000204",
+			"city": "2500 Valby"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.4925428,
+			55.7394191
+			]
+		},
+		"properties": {
+			"store-name": "FW Soeborg Telefonvej",
+			"marker-size": "small",
+			"marker-symbol": "2",
+			"marker-color": "#5ab4ac",
+			"address": "Telefonvej 8D, ",
+			"machineType": "Vending",
+			"serialNo": "2511000206-2511000212",
+			"city": "2860 Soeborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.064296,
+			55.839464
+			]
+		},
+		"properties": {
+			"store-name": "FW Frederikssund",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Falkenborggaarden 4",
+			"machineType": "Vending",
+			"serialNo": "2511000207",
+			"city": "3600 Frederikssund"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.301993,
+			55.652969
+			]
+		},
+		"properties": {
+			"store-name": "Fitness world taastrup",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Selsmosevej 2",
+			"machineType": "Vending",
+			"serialNo": "2511000210",
+			"city": "2630 Taastrup"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.1037079,
+			55.681683
+			]
+		},
+		"properties": {
+			"store-name": "Fitness Fokus",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Sct. Joergensbjerg 41",
+			"machineType": "Vending",
+			"serialNo": "2511000213",
+			"city": "4400 Kalundborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9837121,
+			57.7055313
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven (Goeteborg Ullevi)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Skaanegatan 1-3, 411 40",
+			"machineType": "Vending",
+			"serialNo": "2514003424",
+			"city": "Goeteborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.2097304,
+			57.6897672
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife MW AB - Nordicwellness Landvetter",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Skansgraend 4",
+			"machineType": "Vending",
+			"serialNo": "2514003427",
+			"city": "438 32, Landvetter"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.3622663,
+			56.6639429
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven (Kalmar - Centrum)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Norra Laanggatan 30, 392 32",
+			"machineType": "Vending",
+			"serialNo": "2515004595",
+			"city": "Kalmar"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.192421,
+			58.587745
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness Norrkoeping",
+			"marker-size": "small",
+			"marker-symbol": "3",
+			"marker-color": "#5ab4ac",
+			"address": "Kristinagatan 10, 60226 ",
+			"machineType": "Vending",
+			"serialNo": "2515004596-2515004597-2515004601",
+			"city": "Norrkoeping"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.0351416,
+			57.7354875
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness Go?teborgs Nya Arena 1",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Krutva?gen 2, 415 28, ",
+			"machineType": "Vending",
+			"serialNo": "2515004598",
+			"city": "Goeteborg"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.5185705,
+			59.3829576
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven (Eskilstuna aarby)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "aarbygatan 3, 633 45 ",
+			"machineType": "Vending",
+			"serialNo": "2515004602",
+			"city": "Eskilstuna"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.2105092,
+			59.2412633
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness Tyresoe",
+			"marker-size": "small",
+			"marker-symbol": "3",
+			"marker-color": "#5ab4ac",
+			"address": "Radiovaegen 5, 135 48",
+			"machineType": "Vending",
+			"serialNo": "2515004603-2515004605-2515004609",
+			"city": "Tyresoe"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.205483,
+			58.9943085
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven (Katrineholm - Centrum)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Koepmangatan 24, 641 30",
+			"machineType": "Vending",
+			"serialNo": "2515004606",
+			"city": "Katrineholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.0783006,
+			57.5755218
+			]
+		},
+		"properties": {
+			"store-name": "Paa G Djuraas",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "aelvuddsvaegen 35 785 61",
+			"machineType": "Vending",
+			"serialNo": "2515004608",
+			"city": "Djuraas"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0685808,
+			59.3293235
+			]
+		},
+		"properties": {
+			"store-name": "Gym & Fitness Sverige AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "aarsta Hamnvaeg 9, 11743 ",
+			"machineType": "Vending",
+			"serialNo": "2515004610",
+			"city": "Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			20.2630354,
+			63.8258471
+			]
+		},
+		"properties": {
+			"store-name": "Formtoppen AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Norrlandsgatan 17,90329",
+			"machineType": "Vending",
+			"serialNo": "2515004612",
+			"city": "Umeaa"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			20.2630354,
+			63.8258471
+			]
+		},
+		"properties": {
+			"store-name": "Formtoppen AB",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Norra Obbolavaegen 129, 90422",
+			"machineType": "Vending",
+			"serialNo": "2515004613",
+			"city": "Umeaa"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.8294346,
+			58.0678388
+			]
+		},
+		"properties": {
+			"store-name": "Nordic Wellness Kungaelv",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Stenungs Torg., 44431",
+			"machineType": "Vending",
+			"serialNo": "2515004618",
+			"city": "Stenungsund"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9344484,
+			58.3503154
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven (Uddevalla C)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Norra Drottninggatan 10, 451 31 ",
+			"machineType": "Vending",
+			"serialNo": "2515004620",
+			"city": "Uddevalla"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			16.5046269,
+			59.3688582
+			]
+		},
+		"properties": {
+			"store-name": "Fitness24Seven (Eskilstuna - Nyfors)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Vaestra aasgatan 27, 632 25 Eskilstuna",
+			"machineType": "Vending",
+			"serialNo": "2515004622",
+			"city": "Eskilstuna"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.395386,
+			55.654473
+			]
+		},
+		"properties": {
+			"store-name": "FW Broendby",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Soendre Ringvej 41-45",
+			"machineType": "Vending",
+			"serialNo": "2515004623",
+			"city": "2605 Broendby"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5409729,
+			55.7219153
+			]
+		},
+		"properties": {
+			"store-name": "FW Emdrup",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Emdrup Station Emdrupvej 115A",
+			"machineType": "Vending",
+			"serialNo": "2515004624",
+			"city": "2400 Koebenhavn NV"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.156042,
+			59.307903
+			]
+		},
+		"properties": {
+			"store-name": "FW Ebeltoft, Ebic",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "oester Allé 17",
+			"machineType": "Vending",
+			"serialNo": "2515004627",
+			"city": "8400 Ebeltoft"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.715536,
+			55.7169545
+			]
+		},
+		"properties": {
+			"store-name": "FW Holbaek",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Ahlgade 61-63, kld.",
+			"machineType": "Vending",
+			"serialNo": "2515004629",
+			"city": "4300 Holbaek"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.4401994,
+			55.8410294
+			]
+		},
+		"properties": {
+			"store-name": "FW Birkeroed",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Birkeroed Kongevej 64",
+			"machineType": "Vending",
+			"serialNo": "2515004635",
+			"city": "Birkeroed 3460"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.354765,
+			55.724508
+			]
+		},
+		"properties": {
+			"store-name": "FW Ballerup",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Banegaardspladsen 3-5, 2. sal",
+			"machineType": "Vending",
+			"serialNo": "2515004636",
+			"city": "2750 Ballerup"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.1757524,
+			55.4752608
+			]
+		},
+		"properties": {
+			"store-name": "Fitness world Koege",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Tigervej 12",
+			"machineType": "Vending",
+			"serialNo": "2515004639",
+			"city": "Koege"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.471455,
+			55.811471
+			]
+		},
+		"properties": {
+			"store-name": "FW Holte",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Holte Midtpunkt 23 2 sal",
+			"machineType": "Vending",
+			"serialNo": "2515004641",
+			"city": "2840 Holte"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.450915,
+			55.718883
+			]
+		},
+		"properties": {
+			"store-name": "FW Herlev BIG",
+			"marker-size": "small",
+			"marker-symbol": "2",
+			"marker-color": "#5ab4ac",
+			"address": "Herlev Hovedgade 17",
+			"machineType": "Vending",
+			"serialNo": "2515004642-2515004646",
+			"city": "2730 Herlev"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.536508,
+			55.698507
+			]
+		},
+		"properties": {
+			"store-name": "FW Ndr. Fasanvej",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Nordre Fasanvej 218",
+			"machineType": "Vending",
+			"serialNo": "2515004644",
+			"city": "KBH 2200"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			15.8381747,
+			59.3936883
+			]
+		},
+		"properties": {
+			"store-name": "Traeningsmagasinet Rappshuset AB (Arboga Gym)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Glasbruksgatan 1",
+			"machineType": "Vending",
+			"serialNo": "2519008584",
+			"city": "73231 Arboga"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.2926872,
+			58.2892618
+			]
+		},
+		"properties": {
+			"store-name": "Kommanditbolaget aelvhoegsborg",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Storgatan 1",
+			"machineType": "Vending",
+			"serialNo": "2519008585",
+			"city": "461 31 Trollhaettan"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.7081546,
+			55.7037739
+			]
+		},
+		"properties": {
+			"store-name": "Loop holbaek",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Taastrup moellevej 5",
+			"machineType": "Vending",
+			"serialNo": "2519008589",
+			"city": "4300 Holbaek"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			10.8044064,
+			59.8470096
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness",
+			"marker-size": "small",
+			"marker-symbol": "2",
+			"marker-color": "#5ab4ac",
+			"address": "Hauketoveien 8, ",
+			"machineType": "Vending",
+			"serialNo": "2519008593-2519008605",
+			"city": "1266 Oslo."
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.210313,
+			55.6350412
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness Halmstad",
+			"marker-size": "small",
+			"marker-symbol": "2",
+			"marker-color": "#5ab4ac",
+			"address": "Jaernvaegsgatan  4A, 302 49",
+			"machineType": "Vending",
+			"serialNo": "2519008596-2519008618",
+			"city": "Halmstad"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.156042,
+			59.307903
+			]
+		},
+		"properties": {
+			"store-name": "Sportlife i Kungsbacka AB (NW - Nacka)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Gamla Landsvaegen 10",
+			"machineType": "Vending",
+			"serialNo": "2519008609",
+			"city": "131 47 NACKA"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			14.1566778,
+			56.0293936
+			]
+		},
+		"properties": {
+			"store-name": "XerciseKristianstad AB (Haerloev)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Saevvaegen 8",
+			"machineType": "Vending",
+			"serialNo": "2519008611",
+			"city": "29159 Kristianstad"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.9483244,
+			59.4499728
+			]
+		},
+		"properties": {
+			"store-name": "Fresh Fitness Sollentuna",
+			"marker-size": "small",
+			"marker-symbol": "3",
+			"marker-color": "#5ab4ac",
+			"address": "Hovslagarevaegen 2, 192 54",
+			"machineType": "Vending",
+			"serialNo": "2519008612-2519008614-2519008621",
+			"city": "Sollentuna"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			18.0685808,
+			59.3293235
+			]
+		},
+		"properties": {
+			"store-name": "PDL Group AB (PDL Center)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Palermogatan 34, Magasin 7, Frihamnen",
+			"machineType": "Vending",
+			"serialNo": "2519008615",
+			"city": "11356 Stockholm"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.212229,
+			55.641065
+			]
+		},
+		"properties": {
+			"store-name": "Studio S i Hjaerup AB (Staffanstorp)",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Malmoevaegen 2",
+			"machineType": "Vending",
+			"serialNo": "2519008622",
+			"city": "24532 Staffanstorp"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			17.6417382,
+			59.8584151
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven Uppsala - Kvarntorget",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kvarntorgen 9, 753 20 Uppsala",
+			"machineType": "Vending",
+			"serialNo": "2521010975",
+			"city": "Uppsala"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			13.8233947,
+			58.7090033
+			]
+		},
+		"properties": {
+			"store-name": "Fitness 24 Seven Mariestad - Knallen",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Nya Torget 4, 542 30 Mariestad",
+			"machineType": "Vending",
+			"serialNo": "2521010977",
+			"city": "Mariestad"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.9418708,
+			58.349255
+			]
+		},
+		"properties": {
+			"store-name": "Nordicwellness - Uddevalla City",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Kungsgatan 39, 451 30 Uddevalla",
+			"machineType": "Vending",
+			"serialNo": "2521010981",
+			"city": "Uddevalla"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			11.791372,
+			55.442952
+			]
+		},
+		"properties": {
+			"store-name": "Aktiv Helse Studie",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Benloeseparken 2 (Benloese centeret)",
+			"machineType": "Vending",
+			"serialNo": "2521010985",
+			"city": "4100 - Ringsted"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.1636168,
+			55.4792909
+			]
+		},
+		"properties": {
+			"store-name": "Fit og sund Koege",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Lykkebaekvej 14",
+			"machineType": "Vending",
+			"serialNo": "2521010988",
+			"city": "4600 Koege"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.351312,
+			55.817297
+			]
+		},
+		"properties": {
+			"store-name": "FW Farum",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Idraetsvaenget 2",
+			"machineType": "Vending",
+			"serialNo": "2521010990",
+			"city": "3520 Farum"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.357554,
+			55.870982
+			]
+		},
+		"properties": {
+			"store-name": "FW Alleroed",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Banetorvet 3",
+			"machineType": "Vending",
+			"serialNo": "2521010991",
+			"city": "3450 Alleroed"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5411794,
+			55.7473823
+			]
+		},
+		"properties": {
+			"store-name": "Fdk Gentofte",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "Gentoftegade 35",
+			"machineType": "Vending",
+			"serialNo": "2521010993",
+			"city": "2820 Gentofte"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			12.5179439,
+			55.681845
+			]
+		},
+		"properties": {
+			"store-name": "FW Peter bangs vej",
+			"marker-size": "small",
+			"marker-color": "#5ab4ac",
+			"address": "H.V. Nyholmsvej 7",
+			"machineType": "Vending",
+			"serialNo": "2521010996",
+			"city": "2000 Frederiksberg"
+		}
+		}
+	]
+}

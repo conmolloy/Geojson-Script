@@ -1,0 +1,317 @@
+Type,Customer,Address,Town,No. Machines,Latitude,Longitude,Serial Number
+Coolers,Plus Fitness,Torvet 1,4293 Dianalund,1,55.5270297,11.4965328,90801241
+Coolers,Frederiksberg Svoemmehal Cafeen,Helgesvej 29,2000 Frederiksberg,1,55.6845223,12.5322363,90801251
+Coolers,Maribo Fitness,Ved Stadion  4,4930 Maribo,1,55.613966,12.9880233,90801301
+Coolers,Byens Fitness Ugerloese,Hovedgaden 23C,4350 Ugerloese,1,55.586062,11.656803,90801302
+Coolers,LOOP Greve,Haandvaerkerbyen 36,Greve,1,55.5895795,12.2947331,91301330
+Coolers,High End Crossfit,Traverbanevej 10,2920 Charlottenlund,1,55.75292,12.588086,94662615
+Coolers,Mikenta,Roskildevej 14 G,2620 Albertslund,1,55.659616,12.357064,94801130
+Vending,Fitness24Seven Stockholm Hoegdalen,Hoegdalsgaangen 30,124 54 Bandhagen Sverige,1,59.2678465,18.0515894,2120010655
+Vending,Kentaur,Praestgatan 59,831 34 oestersund Sverige,1,63.1688708,14.6421664,2120010659
+Vending,Gym24H,Regementgatan 23,831 41 oestersund Sverige,1,63.1813307,14.6442362,2120010660
+Vending,Fitness Express Kungsbacka,Aranaes Allé 15,434 42 Kungsbacka Sverige,1,55.6424339,13.2057756,2120010661
+Vending,Fitness24Seven Malmoe Vaernhem,Drottningggatan 2,212 11 Malmoe Sverige,1,55.6072255,13.0211419,2122012427
+Vending,Iron Works Sundsvall,Soedra Jaernvaegsgatan 14,852 31 Sundsvall Sverige,1,62.3885346,17.311672,2122012428
+Vending,Fysiken Sport och Motion,Stationsvaegen 27,136 40 Haninge Sverige,1,59.1590266,18.1311591,2122012431
+Vending,Golds Gym oestersund,Storgatan 38,831 30 oestersund Sverige,1,63.17685,14.6352723,2122012432
+Vending,Fresh Fitness Amager,Rued Langgaards Vej 2C,2300 Koebenhavn S,1,55.6601854,12.5926448,2122012433
+Vending,4Fitness,Carlsbergvej 32A,3400 Hilleroed,1,55.925941,12.3126267,2122012434
+Vending,Fresh Fitness - Noerrebro,Esromgade 15,2200 Koebenhavn N,1,55.6982245,12.5404078,2122012435
+Vending,MAS Traeningscenter,Jaernvaegsgatan 8,245 44 Staffanstorp Sverige,1,55.6350412,13.210313,2122012437
+Vending,Sparta Crossfit,Bryggervej 14,8240 aarhus N,1,41.0334562,-74.6363588,2122012438
+Vending,Fitness Express Falkenberg,Storgatan 45,311 31 Falkenberg Sverige,1,56.9017772,12.4931031,2122012439
+Vending,Hornbaek Fitness,Engholmvej 7,3100 Hornbaek,1,56.07833,12.484135,2122012442
+Vending,Fitness Express Varberg,oestra Laanggatan 47,432 41 Varberg Sverige,1,57.1063644,12.2529045,2122012443
+Vending,Fresh Fitness Hvidovre,Bibliotekvej 58,2650 Hvidovre,1,55.641218,12.468987,2122012444
+Vending,Form & Figur,Christianshusvej 4B,2970 Hoersholm,1,55.9016927,12.4785916,2122012445
+Vending,Fitness 24Seven AB,Stora Soedergatan 4,222 23 Lund  Sverige,1,55.7003064,13.1916769,2213002721
+Vending,Stargym AB,Koepmangatan 20,852 31 Sundsvall Sverige,1,62.3885346,17.311672,2213002723
+Vending,Gym & Fitness Kiruna AB,Vintergatan 3C,981 57 Kiruna  Sverige,1,67.8557995,20.2252821,2213002725
+Vending,Maa Baettre AB,Vasagatan 5,777 30 Smedjebacken Sverige,1,60.1410033,15.4109822,2213002726
+Vending,World Class Vilbergen,Urbergsgatan 90,603 56 Norrkoeping Sverige,1,58.5708852,16.1701659,2213002731
+Vending,Maa Baettre AB,Koepmangatan 14,771 32 Ludvika Sverige,1,60.1459534,15.1867639,2213002732
+Vending,Golds Gym Krokom,Tjaernaasen 176,830 51 Krokom Sverige,1,63.5648122,13.9510512,2213002733
+Vending,Kockum Fritid  Café & Restaurang AB,Vaestra Varvsgatan 8,211 19 Malmoe Sverige,1,55.613966,12.9880233,2213002734
+Vending,Gymnasia AB,Tullgatan 4,387 21 Borgholm,1,56.8802297,16.6562355,2213002744
+Vending,Fitness 24Seven Medborgarplatsen,Fatburstrappan 6,118 26 Stockholm  Sverige,1,59.3149794,18.0704971,2213002745
+Vending,Fitness World,Algade 49 3.sal,4000 Roskilde,1,55.6407398,12.0889289,2214004195
+Vending,Fitness World,Jagtvej 113-115,2200 Koebenhavn N,1,55.696498,12.550941,2214004196
+Vending,Fitness24Seven Majorna,Karl Johansgatan 47,414 59 Goeteborg Sverige,1,57.6968652,11.9267275,2215005467
+Vending,Life n Joy AB,Prins August vaeg 4,793 35 Leksand,1,60.7157842,15.0170794,2215005468
+Vending,Fitnes24Seven Katrinelund,Celciusgatan 38,212 14 Malmoe Sverige,1,55.6023851,13.0234963,2215005469
+Vending,Fitness 24 Seven (Malmoe Moellevaangen),Fricksgatan 6,214 26 Malmoe Sverige,1,55.5897955,13.0076336,2215005470
+Vending,Fitness 24 Seven (Uppsala centrum),Dragarbrunnsgatan 35,753 20 Uppsala Sverige,1,59.8596495,17.6394199,2215005471
+Vending,Fitness 24 Seven (aengelholm Centrum),Taastrupsgatan 11,262 32 aengelholm Sverige,1,56.2427677,12.8608147,2215005473
+Vending,Fitness 24 Seven (oerebro Centrum),Kungsgatan 16-22,702 11 oerebro Sverige,1,59.2701291,15.2135803,2215005474
+Vending,Fitness 24 Seven (Vaexjoe Centrum),Biblioteksgatan 1-3,352 31 Vaexjoe Sverige,1,56.8796151,14.8009716,2215005475
+Vending,Sportlife MW AB (Vasagatan),Vasagatan 7,411 24 Goeteborg Sverige,1,57.6975134,11.9644008,2216006482
+Vending,F24S Hammarby Sjoestad,Hammarby Allé 183,120 66 Stockholm Sverige,1,59.228004,17.9349063,2216006486
+Vending,Sportlife Gym & Bad i Vaest AB (Moelnlycke),Roersvaengen 17,435 35 Moelnlycke Sverige,1,57.670343,12.1580632,2216006492
+Vending,Sportlife i Vaest AB (Bromma),Karlsbodavaegen 17D,168 67 Bromma Sverige,1,59.3529958,17.9552128,2216006493
+Vending,Peter & Richard Traening AB,Tivolibadsgatan 4,29132 Kristianstad,1,56.0293936,14.1566778,2216006494
+Vending,Sportlife MW AB (Ullevi),Parkgatan 65,411 38 Goeteborg Sverige,1,57.7069631,11.9801168,2216006495
+Vending,Sportlife MW AB (City Domkyrkan),Drottninggatan 164,414 14 Goeteborg Sverige,1,57.70887,11.97456,2216006496
+Vending,Sportlife i Kungsbacka AB (Kungsbacka City),Soedra Torggatan 18,434 30 Kungsbacka Sverige,1,57.4863842,12.0763481,2216006497
+Vending,Sportlife Gym & Bad i Vaest AB (Almedal),Moelndalsvaegen 85,412 85 Goeteborg Sverige,1,57.6815401,12.0013583,2216006498
+Vending,F24S Uppsala,Dragarbrunnsgatan 25,753 20 Uppsala Sverige,1,59.8602721,17.6382973,2216006499
+Vending,Sportlife MW AB (Jaerntorget),Folkets hus,413 04 Goeteborg Sverige,1,57.6962754,11.9526686,2216006501
+Vending,F24S Joenkoeping,oestra Storgatan 7-9,553 21 Joenkoeping Sverige,1,57.7809877,14.1881287,2216006505
+Vending,Fitness Syd Soenderborg,Grundvigallé 170,6400 Soenderborg,1,55.230381,11.77017,2216006506
+Vending,Fitness 24 Seven (Stockholm Vanadisplan),Gaevlegatan 16,113 30 Stockholm,1,59.3457102,18.0363793,2220008768
+Vending,SportlifeGym och Bad i Vaest AB,Axel Dahlstroems torg,414 80 Goeteborg Sverige,1,57.6702546,11.9277088,2220008769
+Vending,Fitness24Seven Lund Centrum,Stora Soedergatan 8B,222 23 Lund Sverige,1,55.7003064,13.1916769,2220008770
+Vending,SportlifeGym och Bad i Vaest AB,Karl Johansgatan 94,414 55 Goeteborg Sverige,1,57.6928051,11.9178581,2220008771
+Vending,Fitness 24 Seven (Sollentuna Centrum),Malmvaegen 6C,191 61 Sollentuna,1,59.4260962,17.9487195,2220008772
+Vending,Sportlife Olskroken,Redbergsvaegen 2,416 65 Goeteborg  Sverige,1,57.7149811,11.9976039,2220008773
+Vending,SportlifeGym och Bad i Vaest AB,oesterlaanggatan 74,503 37 Boraas Sverige,1,57.7186686,12.9435777,2220008774
+Vending,Fitness24Seven Haessleholm,oestergatan 7,281 31 Haessleholm Sverige,1,56.1580493,13.7652569,2220008776
+Vending,SportlifeGym och Bad i Vaest AB,Dr. Fries torg,413 23 Goeteborg Sverige,1,57.6836552,11.9716136,2220008777
+Vending,Fitness24Seven Universitetsholmen,Nordenskioeldsgatan 8,211 19 Malmoe Sverige,1,55.613966,12.9880233,2220008778
+Vending,SportlifeGym och Bad i Vaest AB,Skaraborgsvaegen 64,506 30 Boraas Sverige,1,57.7345187,12.9315837,2220008779
+Vending,Fitness 24 Seven (Botkyrka  Hallunda),Hallunda torg,145 68 Norsborg,1,59.2447617,17.8258163,2220008780
+Vending,Fitness24Seven Goeteborg Stampen,Friggagatan 16,411 01 Goeteborg Sverige,1,57.7116524,11.9884608,2220008782
+Vending,Fitness 24 Seven (Stockholm Stureplan),David Bagares  gata 7,11138 Stockholm,1,59.3293235,18.0685808,2220008783
+Vending,Fitness 24 Seven (Malmoe Slussen),oestra Tullgatan 3,211 28 Malmoe,1,55.6074205,13.0127837,2220008784
+Vending,Fitness 24 Seven (Stockholm Stadshagen),Warfinges vaeg 26,112 51 Stockholm,1,59.3389931,18.0117631,2220008785
+Vending,Fitness 24 Seven (Nacka Orminge),Ormingeplan 2-4,132 30 Nacka,1,59.307903,18.156042,2220008786
+Vending,Fitness World Lyngby Hovedgade,Lyngby Hovedgade 61,2800 Lyngby,1,55.767754,12.5073123,2220008788
+Vending,Sportlife i Vaest AB,Kungsgatan 45,447 30 Vaargaarda Sverige,1,58.0324191,12.8077577,2220008789
+Vending,Sportlife i Vaest AB,Skaanegatan 2,441 57 Alingsaas Sverige,1,57.9573505,12.5219399,2220008790
+Vending,Fitness World Soeborg,Soeborg Hovedgade 27,2860 Soeborg,1,55.7375006,12.508327,2220008791
+Vending,Fitness24Seven Sollenyuna Helenelund,Stupvaegen 1,191 42 Sollentuna Sverige,1,59.4114216,17.9655821,2221010177
+Vending,F24S Huddinge –Vaarby,Vaarby Allé 14,143 40 Huddinge,1,59.3182817,17.9848496,2221010178
+Vending,F24S Stockholm –Hoetorget,Sveavaegen 13-15,111 57 Stockholm,1,61.306873,17.0676095,2221010179
+Vending,Sportlife Odenplan,Vaestmannagatan 44A,113 25 Stockholm,1,59.3406036,18.0486848,2221010181
+Vending,Gym4You,Norgevej 8,4200 Slagelse,1,55.403692,11.355257,2221010182
+Vending,Managym,Klostermosevej 123,3000 Helsingoer,1,56.02905,12.566158,2221010183
+Vending,F24S Kungsbacka -Centrum,Nygatan 17,434 30 Kungsbacka,1,57.4855819,12.0786867,2221010186
+Vending,F24S Eskilstuna –Centrum,Kungsgatan 21,632 20 Eskilstuna Sweden,1,60.1447686,16.1765571,2221010191
+Vending,Sportlife oestermalm,Karlavaegen 100,115 26 Stockholm,1,59.3365032,18.0994189,2221010192
+Vending,Fitness24Seven Kvilletorget,Kvilletorget 15,417 04 Goeteborg,1,57.7195588,11.9471383,2221010194
+Vending,Fitness24Seven Huvudsta,Storgatan 70,171 52 Solna,1,59.3498827,17.9858766,2221010196
+Vending,Fitness24Seven Hornstull,Hornsgatan 150,117 28 Stockholm,1,59.3159884,18.0384868,2221010197
+Vending,Fitness24Seven Skellefteaa,Nygatan 46,931 31 Skellefteaa,1,64.7500884,20.954035,2221010198
+Vending,Sportlife Tegnergatan,Tegnergatan 21,111 40 Stockholm,1,59.3398508,18.0614176,2221010199
+Vending,F24S Helsingborg –Soeder,Soedergatan 39,252 25 Helsingborg Sverige,1,55.7375006,12.508327,2221010204
+Vending,Fitness24Seven Huddinge Flemingsberg,Haelsovaegen 20,141 59 Stockholm Sverige,1,59.228004,17.9349063,2221010205
+Vending,F24S Maersta –Centrum,Nymaersta Torg 6,195 30 Maersta,1,64.7500884,20.954035,2221010206
+Vending,Sportlife Hammarby Sjoestad,Lugnets alle 1,120 65 Stockholm,1,59.3015218,18.101789,2221010208
+Vending,F24S Varberg –Centrum,Vaestra Vallgatan 35A,432 41 Varberg,1,58.7437222,17.009289,2221010209
+Vending,F24S Malmoe –Roersjoestaden,Henrik Smithsgatan 15A,211 56 Malmoe,1,55.6845223,12.5322363,2221010211
+Vending,Fitnessdk Fisketorvet,Kalvebod Brygge 59,1560 Koebenhavn V,1,55.6626556,12.5621265,2221010215
+Vending,Bodyline,oelandsvej 21,4681 Herfoelge,1,55.4251781,12.1447089,2221010219
+Vending,Fitness World Korsoer,Nordvangen 3D 2.,4220 Korsoer,1,55.325763,11.14939,2221010220
+Vending,Fitness World Nykoebing F,Vestenborg Álle 1,4800 Nykoebing F,1,55.603256,12.586085,2221010221
+Vending,Fitnessdk,Roennebaer Alle 110,3000 Helsingoer,1,56.0248471,12.5869321,2221010222
+Vending,Impuls Motion,Roejelskjaer 13,2840 Holte,1,55.8172508,12.4722496,2221010223
+Vending,Nordic Wellness (Sportslife),Torslanda Torg 1,423 32 Torslanda,1,57.7234442,11.7671891,2311000192
+Vending,Sportlife Hornstull,Laangholmsgatan 9,117 33 Stockholm,1,59.3223907,18.0290508,2311000193
+Vending,Nordic Wellness (Sportslife),Storgatan 54 A,571 33 Naessjoe,1,57.6571147,14.6909254,2311000194
+Vending,Optimal Training World Wide AB,Idrottsvaegen 2,663 34 Skoghall,1,59.3246275,13.4693947,2311000196
+Vending,F24S Boden –Solna,Huvudstagatan 4,171 58 Solna,1,55.442952,11.791372,2311000197
+Vending,Maa Baettre Saetra,Jaernvaegsgatan 22,783 30 Saeter,1,60.3452822,15.7502831,2311000198
+Vending,Nordic Wellness (Sportslife),Kungsgatan 33,441 41 Alingsaas,1,57.9296829,12.5391905,2311000199
+Vending,Nordic Wellness Hornsgatan,Hornsgatan 67,118 49 Stockholm,1,59.3176247,18.0534692,2311000200
+Vending,Nordic Wellness (Sportslife),Brogatan 1,431 30 Moelndal,1,57.6556792,12.016643,2311000201
+Vending,Nordic Wellness (Sportslife),Joenkoepingsgatan 12,566 31 Habo,1,57.9193649,14.0765157,2311000202
+Vending,Nordic Wellness (Sportslife),Sjoeaakravaegen 25,564 31 Bankeryd,1,57.8674925,14.1377911,2311000205
+Vending,Nordic Wellness (Sportslife),Kungsgatan 35,561 31 Huskvarna,1,57.7903939,14.275315,2311000206
+Vending,Nordic Wellness (Sportslife),oestra Storgatan 34,553 21 Joenkoeping,1,57.7809877,14.1881287,2311000207
+Vending,Nordic Wellness (Sportslife),Barnarpsgatan 12,553 16 Joenkoeping,1,57.7829535,14.1627917,2311000208
+Vending,Nordic Wellness (Sportslife),Borgaas Gaardsv.1,434 39 Kungsbacka,1,57.4953312,12.0506946,2311000209
+Vending,Nordic Wellness (Sportslife),Almaasgaangen 1,437 30 Lindome,1,57.5755218,12.0783006,2311000210
+Vending,Fitness World Hvidovre,Hvidovre Stationsvej 143 1Sal,2650 Hvidovre,1,55.642522,12.475386,2311000211
+Vending,Fitness4Life,Solroed Center,2680 Solroed,1,55.5342598,12.2179595,2311000214
+Vending,Fitness World Kigkurren,Kigkurren 1,2300 Koebenhavn S,1,55.662682,12.577176,2311000215
+Vending,Golds Fyrvalla,Fyrvallavaegen 4,831 30 oestersund,1,63.1804559,14.631056,2312000924
+Vending,Nordic Wellness,Jaernvaegsgatan 31,264 33 Klippan,1,56.1389262,13.1350816,2312000926
+Vending,Fristilen oestersund,Regementsgatan 31,831 35 oestersund,1,63.1746934,14.6460404,2312000927
+Vending,Nordic Wellness,Sporthallsvaegen 2B,263 34 Hoeganaes,1,56.189811,12.5722265,2312000928
+Vending,Nordic Wellness,Trollenaesgatan 2,217 73 Malmoe,1,55.5917028,12.9654009,2312000929
+Vending,Nordic Wellness,Storgatan 28-30,302 43 Halmstad,1,56.6752565,12.8591279,2312000930
+Vending,Nordic Wellness,Lilla garnisonsgatan 37,254 67 Helsingborg,1,56.0794009,12.7313154,2312000931
+Vending,Arena Fagersta,Kristiansbergsvaegen 2,737 40 Fagersta,1,60.0016393,15.7788071,2312000932
+Vending,Golds aare,Kurortsvaegen 20,830 13 aare,1,63.3990428,13.0815059,2312000933
+Vending,Fitness 24 Seven,Elinebergsplatsen 5,256 68 Helsingborg,1,56.0284284,12.7256653,2312000936
+Vending,Maa Baettre Avesta,Kungsgatan 2,774 30 Avesta,1,60.1447686,16.1765571,2312000939
+Vending,Viking Sport & Nutrition (Byttet med pro nova),Fixgatan 3,641 33 Katrineholm,1,58.9949411,16.2219772,2312000940
+Vending,Bodywork Hvalsoe,aasvejen 36,4330 Hvalsoe,1,55.594178,11.848926,2312000941
+Vending,Nordic Wellness,Kronborgsvaegen 5,217 42 Malmoe,1,55.5930926,12.9869377,2312000942
+Vending,Fitness24Seven,Raadmangatan 12A,211 46 Malmoe,1,55.5938292,12.9981261,2312000943
+Vending,NW Lidingoe – Larsberg,Larsbergstorget 9,181 39 Lidingoe,1,59.3223907,18.0290508,2313001419
+Vending,Fitness24Seven Spaangatan,Spaangatan 7,211 44 Malmoe,1,55.5971353,13.0034602,2313001420
+Vending,Fitness24Seven Masthugget,Masthuggstorget 2,413 27 Goeteborg,1,57.6988216,11.9437662,2313001421
+Vending,Fitness24Seven Norrkoeping,Praestgatan 12,602 32 Norrkoeping,1,58.5872217,16.187706,2313001423
+Vending,Fitness24Seven Rosengaard,Thomaons Vaeg 28,213 73 Malmoe,1,55.5850939,13.0529514,2313001424
+Vending,Fitness24Seven Dammfri,Koepenhamnsvaegen 6,217 43 Malmoe,1,55.5934792,12.9784183,2313001426
+Vending,World Class Pro Nova (Byttet med Viking),St. Petersgatan 19,602 33 Norrkoeping,1,58.5880723,16.166888,2313001427
+Vending,F24S Stockholm Regeringsgatan,Regeringsgatan 59,111 56 Stockholm,1,59.3343409,18.0673938,2313001430
+Vending,Mer I Goeteborg AB,Storaas Industrigatan 20,424 69 Angered,1,57.7983453,12.0494425,2313001431
+Vending,NW Malmoe Vaestra Hamnen,Riggaregatan 37,Malmoe,1,55.6173135,12.9803625,2313001433
+Vending,Fitness24Seven Haabo/Baalsta,Centrumstraaket 1,746 32 Baalsta,1,59.563902,17.5328932,2313001434
+Vending,Body Joy Gustavsbergs hamn,Odelbergsvaeg 19,134 40 Gustavsberg,1,59.3165214,18.3638844,2313001437
+Vending,Fitness World,Tomsgaarsvej 15-17,2400 Koebenhavn NV,1,55.714619,12.5287294,2317005603
+Vending,Fresh Amager,Rued Langgaardsvej 2C,2300 Koebenhavn,2,55.6571378,12.6094233,2317005604-2317005610
+Vending,Nordic Wellness Ulricehamn,Strandvaegen 30,523 31 Ulricehamn,1,57.7793069,13.4032062,2317005607
+Vending,Fitness24Seven Kristinehamn,Nya Kyrkogatan 19,681 30 Kristinehamn,1,59.3093556,14.1096064,2317005608
+Vending,Odenplan Gym AB - NW Norrtaelje,Tullportsgatan 12,761 30 NORRTaeLJE,1,59.7572634,18.7001393,2317005609
+Vending,Fitness World,Gasvaerksvej 16,1656 Koebenhavn V,1,55.6708082,12.5570356,2317005611
+Vending,Maa baettre Gaevle,Nygatan 33,80311 Gaevle,1,60.2783963,15.9871076,2317005612
+Vending,Fresh Fitness Roedovre,Roskildevej 398,2610 Roedovre,3,55.6703696,12.4432608,2317005613-2317005623-2317005632
+Vending,Maa Baettre Borlaenge,Borganaesvaegen 48,784 33 Borlaenge,1,60.4870723,15.4357701,2317005614
+Vending,Stargym,Traedgaardsgatan 32,852 32 Sundsvall,1,62.3895239,17.303941,2317005616
+Vending,Fitness24Seven Gaerdet,Tegeluddsvaegen 80,115 28 Stockholm,1,59.3424775,18.1122499,2317005618
+Vending,Fitness24Seven Lund,Stora Soedergatan 8,222 23 Lund,1,55.7003064,13.1916769,2317005620
+Vending,Nordic Wellness,Viaredsvaegen 4A,504 64 Boraas,1,57.721035,12.939819,2317005621
+Vending,Fitness24Seven Vintertullstorget,Vintertullstorget 76,116 43 Stockholm,1,59.3079748,18.091568,2317005622
+Vending,Fitness24Seven Umeaa,Storgatan 43,903 26 Umeaa,1,63.8261459,20.2564923,2317005626
+Vending,Crossfit Ringsted,"Huginsvej 13 B, 4100 Ringsted",4100 Ringsted,1,55.442952,11.791372,2317005627
+Vending,Sporting Health Club,Gothersgade 14,1123 Koebenhavn K,1,55.682038,12.5839433,2317005629
+Vending,Active Sportsclub,Styrmansgatan 4B,826 37 Soederhamn,1,61.306873,17.0676095,2317005630
+Vending,Nordic Wellness oernskoeldsvik,Viktoriaesplananden 8,891 33 oernskoeldsvik,1,63.2884878,18.7200146,2317005631
+Vending,Svenska Nergy AB (STC Karlstad jaernvaegsgatan 2 nr.2),Jaernvaegsgatan 2,65113 Karlstad,1,59.4021806,13.5114977,2317005633
+Vending,Fitness24Seven Sannegaarden,Vintergatan 4,417 58 Goeteborg,1,57.7098345,11.9285578,2317005634
+Vending,Fitness24Seven Solna Strand,Torggatan 8,171 54 Solna,1,59.3559258,17.9739159,2317005635
+Vending,Fitness24Seven Borlaenge,Borganaesvaegen 38,784 33 Borlaenge,1,60.4870723,15.4357701,2317005636
+Vending,Nordic Wellness Nykoeping,Vaestra Torg 13,611 31 Nykoeping,1,58.7437222,17.009289,2317005640
+Vending,Fitness24Seven Gamlestaden,Rullagergatan 4,415 26 Goeteborg,1,57.7278716,12.0170578,2317005641
+Vending,Nordic Wellness Norrkoeping Mirium Galleria,"Lidaleden 2, Plan 4",603 59 Norrkoeping,1,58.5763051,16.2068387,2317005642
+Vending,Fitness World Roedovre,Roedovre Centrum 202,2610 Roedovre,1,55.6784797,12.4554706,2317005643
+Vending,Fitnessdk Valby,"Valby Torvegade 17, 1.",2500 Valby,1,55.6647518,12.5115039,2317005646
+Vending,Fitness World Slagelse,Jernbanegade 5,4200 Slagelse,1,55.4053556,11.3531229,2317005650
+Vending,Key2fitness,Klosterparks alle 10,4100 Ringsted,1,55.4528484,11.7889054,2319005948
+Vending,Fresh Fitness,Biblioteksvej 58,2650 Hvidovre,1,55.642522,12.475386,2319005949
+Vending,Microsoft HQ,"Tuborg Boulevard 12, 1 sal",2900  Hellerup,1,55.7271545,12.5806931,2319005950
+Vending,Fitness World,Tigervej 12-14,4600 Koege,1,55.4752608,12.1757524,2319005951
+Vending,Work It up,Bryggervangen 8,4760 Vordingborg,2,55.012347,11.911565,2319005952-2416006650
+Vending,CPH Fitness,Praestefaelledvej 16,2770 Kastrup,1,55.624387,12.599586,2319005954
+Vending,Mae Baettre Falun,Grunvgatan 7,791 61 Falun,1,60.582915,15.5934079,2319005977
+Vending,WorkZone,Vedelsgade 7,4180 Soroe,1,55.433914,11.558953,2319005979
+Vending,Actic Lund - Kompassen,Stortorget 7,70211 oerebro,1,59.2752626,15.2134105,2319005984
+Vending,Leifclub Roskilde,Hyldehoej Bygade 6,4000  Roskilde,1,55.64191,12.087845,2319005988
+Vending,Mae Baettre Hedemora,Nygatan 3,776 30 Hedemora,1,60.2783963,15.9871076,2319005989
+Vending,Sportsgym Sundsvall,Medborgergatan 27,69330 Sundsvall,1,62.390811,17.306927,2319005990
+Vending,Fitness World,"Vest Amagercenteret, Ugandavej 111-123",2770 Kastrup,1,55.603256,12.586085,2413002444
+Vending,Sportlife Gym och Bad i Vaest AB - Nordic Wellness Emporia,"Hylliebouevarden 12 ,215 32 MALMoe ( Hyllie)",,1,55.5609679,12.982613,2416006642
+Vending,Fresh Fitness - Vesterbro,Vesterbrogade 97,1620 Koebenhavn V,1,55.6717129,12.5467201,2416006643
+Vending,Sportlife Gym och Bad i Vaest AB - Nordic Wellness Eskilstuna,"Kungsgatan 6-8 ,632 20 Eskilstuna",,1,59.3699167,16.5160581,2416006645
+Vending,World Class Express Tele2,Arenaslingan 3,121 26 Johanneshov,1,59.296242,18.0740139,2416006646
+Vending,Actic Hammarby Sjoestad 9040,"Skeppsmaeklargatan 1, 12069 STOCKHOLM",,1,59.3293235,18.0685808,2416006647
+Vending,Fresh Fitness - Koebenhavn K,Koebmagergade 48,1150 Koebenhavn K,1,55.6810359,12.5768162,2416006648
+Vending,Fw roedo+B88:J89vre,Roedovre centrum 200,2610 Roedovre,1,55.6789479,12.458097,2416006649
+Vending,Fitness 24 Seven SE -Eskilstuna aarby,"aarbygatan 3, 633 45 Eskilstuna",,1,59.3829576,16.5185705,2416006652
+Vending,Fitness 24 Seven SE -Goeteborg Olskroken,"Hoekegatan 30, 416 66 Goeteborg",,1,57.7167091,11.9984319,2416006653
+Vending,Wellcome Fitness,Waterfront Shoppingcenter - Tuborg Havnevej 4-6 1. sal,2900 Hellerup,1,55.736654,12.569196,2416006655
+Vending,Fitness World,Broendby Strand Centrum 50,2660 Broendby Strand,1,55.622269,12.421819,2416006658
+Vending,Rosenborg - Livgarden,Gothersgade 100,1015 Koebenhavn K,1,55.6760968,12.5683371,2416006659
+Vending,Fitness World,Groenvej 3,4700 Naestved,1,55.230381,11.77017,2416006662
+Vending,Fresh Fitness - Ellebjerg,Ellebjergvej 40,2450 Koebenhavn SV,2,55.6501712,12.5231196,2417007659-2417007660
+Vending,Actic Hallonbergen 9155,"Hallonbergsplan 5, 17452 SUNDBYBERG",,1,59.3670471,17.9663093,2417007661
+Vending,Actic Elite,S:t Eriksgatan 115,113 43 Stockholm,1,59.34675,18.0393284,2417007662
+Vending,Sportlife Gym och Bad i Vaest AB - Nordic Wellness Nykoeping Rosvalla,"Idrottsvaegen Rosvalla Arena, 611 62 NYKoePING",,1,58.7508043,17.0440267,2417007665
+Vending,Actic Falun,"Lugnetvaegen 5,",791 83 Falun,1,60.6192581,15.6581941,2417007666
+Vending,Fresh Fitness Soedermalm,Magnus Ladulaasgatan 65,118 27 Stockholm,3,59.311614,18.0705928,2417007667-2417007669-2417007675
+Vending,AB Cypressen / CC Gym AB,Storgatan 88,35246 Vaexjoe,1,56.8790044,14.8058522,2417007668
+Vending,Fitness 24 Seven SE -Trollhaettan Centrum,"Kungsgatan 33, 461 30 Trollhaettan",,1,58.2853013,12.2904801,2417007671
+Vending,Filborna Arena AB,Filbornavaegen 101a,25661 Helsingborg,1,56.0464674,12.6945121,2417007672
+Vending,Kalmar Fitnesscenter i Kopparslageren AB,Fiskeragatan 8,39232 Kalmar,1,56.6634447,16.356779,2417007673
+Vending,Fitness 24 Seven SE -Vaenersborg Centrum,"Edsgatan 27, 462 30 Vaenersborg",,1,58.3833741,12.3253898,2417007676
+Vending,Fitness 24 Seven SE -Vaestervik Centrum,"Kvarngatan 12, 593 30 Vaestervik",,1,57.7582431,16.6402677,2417007677
+Vending,Fitness 24 Seven SE -Maersta Valsta C,"Hammargatan 6, 195 53 Maersta",,1,59.6161407,17.8286943,2417007679
+Vending,Fitness 24 Seven SE -Staffanstorp Centrum,"Apoteksgatan 9, 245 31 Staffanstorp",,1,55.6424339,13.2057756,2417007680
+Vending,Boxen Umeaa,Bjoernvaegen 17,Umeaa,1,63.8258471,20.2630354,2417007683
+Vending,Sportlife Gym och Bad i Vaest AB - Nordic Wellness Krokslaett,"Goeteborgsvaegen 95 , Plan 1 , 431 37 Moelndal",,1,57.6713541,12.0138033,2417007684
+Vending,Fitness 24 Seven SE -Malmoe Lilla Torg,"Skomakaregatan 5, 211 34 Malmoe",,1,55.6048193,13.0001091,2417007686
+Vending,"Actic Flygstaden, Halmstad","Kristinebergsvaegen 24,",30241 Halmstad,1,56.6743748,12.8577884,2417008190
+Vending,Actic Hoegdalen,"Rangstaplan ,",12454 Bandhagen,1,59.2646197,18.0414941,2417008191
+Vending,Actic Norrkoeping 9019,"Dalsgatan 7, 60232 NORRKoePING",,1,58.587745,16.192421,2417008192
+Vending,Actic Varberg Friskvaagen,"Strandgatan 5,",43244 Varberg,1,57.107118,12.2520907,2417008194
+Vending,World Class Express Stora Essingen,Vaenskapsvaegen 33,112 65 Stockholm,1,59.3182817,17.9848496,2417008195
+Vending,Actic Motala City,"Praestgatan 4,",59130 Motala,1,58.5380335,15.0470936,2417008198
+Vending,Actic Centralbadet i Uppsala 9110,"S:t Persgatan 4, 75320 UPPSALA",,1,59.8585638,17.6389267,2417008199
+Vending,Actic Centralgym i Uppsala 9111 1,"Saebygatan 5, 75323 UPPSALA",,1,59.8585638,17.6389267,2417008200
+Vending,Maa Baettre Sandviken,Hyttgatan 37B,811 31 Sandviken,1,60.6229859,16.7746473,2417008201
+Vending,Fitness 24 Seven SE -Danderyd Stocksund,"Stockholmsvaegen 43, 182 78 Stocksund",,1,59.3841662,18.0478685,2417008202
+Vending,Actic Sydpoolen,"oestra Kanalgatan 2,",152 71 Soedertaelje,1,59.1888336,17.636212,2417008203
+Vending,Actic Vaexjoe 9186,"Hejaregatan 1, 35246 VaeXJoe",,1,56.8790044,14.8058522,2417008204
+Vending,World Class Express Hagsaetra,Hagsaetra Torg 8,124 73 Bandhagen,1,59.2678465,18.0515894,2417008205
+Vending,Actic Skoevde Arena,"Egnells Vaeg 1,",541 40 Skoevde,1,58.3965458,13.8417053,2417008209
+Vending,Svenska Nergy AB (STC - Stenungsund Lilla Strandvaegen),Lilla strandvaegen 2,44431 stenungsund,1,58.0678388,11.8294346,2421011271
+Vending,Svenska Nergy AB (STC - Stenungsund Strandvaegen),strandvaegen 35,44431 stenungsund,1,58.0678388,11.8294346,2421011275
+Vending,F24S Karlskrona Centrum,"Ronnebygatan 44, 371 33 Karlskrona",,1,56.1625482,15.5858268,2421011281
+Vending,Svenska Nergy AB (STC - Uddevalla),Bastionsgatan 18,45150 Uddevalla,1,58.3498003,11.935649,2421011284
+Vending,PL Haelsocenter AB (STC - Tibro),Storgatan 36,54332 Tibro,1,58.424323,14.1616418,2421011287
+Vending,F24S Malmoe Vaestra Hamnen,"Vaestra Varvsgatan 19, 211 19 Malmoe",,1,55.613966,12.9880233,2421011291
+Vending,F24S Malmoe Dalaplan,"Ystadvaegen 13, 214 30 Malmoe",,1,55.5840651,13.0101862,2421011292
+Vending,Svenska Nergy AB (STC - Karlstad Kasernhoejden),Kasernhoejden 14,65339 Karlstad,1,59.4021806,13.5114977,2421011293
+Vending,"Fitness World, Forum","Worsaaesvej 17, 1. sal",1972 Frederiksberg C,1,55.6840317,12.5532982,2421011497
+Vending,Butchers Lab,Staldgade 22,1699 Koebenhavn V,1,55.66837,12.562184,2421011499
+Vending,Fitnessdk Roskilde,"Ro's Torv, Koebenhavnsvej 29",Roskilde,1,55.6410858,12.0986397,2421011501
+Vending,Fitness World,"Idraetsvej 5, 1. sal",3550 Slangerup,1,55.845994,12.169767,2421011505
+Vending,FW Fredensborg,"Tinghusvej 4B, ",3480 Fredensborg,1,55.979118,12.401322,2421011508
+Vending,FW Vaerloese,Kirke Vaerloesevej 32,3500 Vaerloese,1,55.782225,12.361476,2421011510
+Vending,F24S Sandviken Centrum,"Koepmangatan 18, 81139 Sandviken",,1,60.621607,16.775918,2422012496
+Vending,F24S Ludvika Centrum,"Engelbrektsgatan 3, 771 30 Ludvika",,1,60.1493312,15.1854408,2422012501
+Vending,F24S Solna Raasunda,"Kruthusbacken 48, 169 52 Solna",,1,59.3624402,18.0047968,2422012502
+Vending,NW - Lindhagen,"Nordenflychtsvaegen 60, Plan 5 , 112 51 STOCKHOLM",,1,59.3389931,18.0117631,2422012503
+Vending,F24S Stockholm Soedermalm,"Blekingegatan 63, 116 62 Stockholm",,1,59.3108484,18.0767429,2422012504
+Vending,NW -Uppsala,"Heidenstamstorget 69, 754 27 UPPSALA",,1,59.8777023,17.6470609,2422012505
+Vending,F24S oerebro Tybble C,Drakenbergsgatan 1B 702 19 oerebro,,1,59.2588841,15.2393551,2422012506
+Vending,F24S Sollentuna Rotebro,"Kung Hans Vaeg 12, 192 68 Sollentuna",,1,59.4727647,17.913551,2422012510
+Vending,Fitnessworld Gilleleje,Fiskerbakken 15,3250 Gilleleje,1,56.1110796,12.3299939,2422012512
+Vending,FW Herlev,Noerrelundvej 4,2730 Herlev,1,55.725406,12.416353,2422012513
+Vending,Fitnessworld Hilleroed Frejasvej,Frejasvej 32-38,3400 Hilleroed,1,55.932972,12.28532,2422012518
+Vending,FW Frejasvej,Frejasvej 32-34,3400 Hilleroed,1,55.932972,12.28532,2511000193
+Vending,Fitness World Husum,Frederikssundsvej 264,2700 Husum,1,55.709501,12.480966,2511000195
+Vending,Fitness World Hundige,Over Boeljen 20,2670 Greve,1,55.5985117,12.241408,2511000198
+Vending,Malkars Traeningscenter AB,Norravaegen 2,38237 Nybro,1,56.7437998,15.9086806,2511000202
+Vending,Dit velvaere v. Rikke Thomsen,Flodvej 75 B,2765 Smoerumnedre,1,55.74058,12.301729,2511000203
+Vending,Fitness world Valby,Mosedalvej 11,2500 Valby,1,55.6673325,12.5136574,2511000204
+Vending,FW Soeborg Telefonvej,"Telefonvej 8D, ",2860 Soeborg,2,55.7394191,12.4925428,2511000206-2511000212
+Vending,FW Frederikssund,Falkenborggaarden 4,3600 Frederikssund,1,55.839464,12.064296,2511000207
+Vending,Fitness world taastrup,Selsmosevej 2,2630 Taastrup,1,55.652969,12.301993,2511000210
+Vending,Fitness Fokus,Sct. Joergensbjerg 41,4400 Kalundborg,1,55.681683,11.1037079,2511000213
+Vending,Fitness24Seven (Goeteborg Ullevi),"Skaanegatan 1-3, 411 40",Goeteborg,1,57.7055313,11.9837121,2514003424
+Vending,Sportlife MW AB - Nordicwellness Landvetter,Skansgraend 4,"438 32, Landvetter",1,57.6897672,12.2097304,2514003427
+Vending,Fitness24Seven (Kalmar - Centrum),"Norra Laanggatan 30, 392 32",Kalmar,1,56.6639429,16.3622663,2515004595
+Vending,Fresh Fitness Norrkoeping,"Kristinagatan 10, 60226 ",Norrkoeping,3,58.587745,16.192421,2515004596-2515004597-2515004601
+Vending,Nordic Wellness Go?teborgs Nya Arena 1,"Krutva?gen 2, 415 28, ",Goeteborg,1,57.7354875,12.0351416,2515004598
+Vending,Fitness24Seven (Eskilstuna aarby),"aarbygatan 3, 633 45 ",Eskilstuna,1,59.3829576,16.5185705,2515004602
+Vending,Fresh Fitness Tyresoe,"Radiovaegen 5, 135 48",Tyresoe,3,59.2412633,18.2105092,2515004603-2515004605-2515004609
+Vending,Fitness24Seven (Katrineholm - Centrum),"Koepmangatan 24, 641 30",Katrineholm,1,58.9943085,16.205483,2515004606
+Vending,Paa G Djuraas,aelvuddsvaegen 35 785 61,Djuraas,1,57.5755218,12.0783006,2515004608
+Vending,Gym & Fitness Sverige AB,"aarsta Hamnvaeg 9, 11743 ",Stockholm,1,59.3293235,18.0685808,2515004610
+Vending,Formtoppen AB,"Norrlandsgatan 17,90329",Umeaa,1,63.8258471,20.2630354,2515004612
+Vending,Formtoppen AB,"Norra Obbolavaegen 129, 90422",Umeaa,1,63.8258471,20.2630354,2515004613
+Vending,Nordic Wellness Kungaelv,"Stenungs Torg., 44431",Stenungsund,1,58.0678388,11.8294346,2515004618
+Vending,Fitness24Seven (Uddevalla C),"Norra Drottninggatan 10, 451 31 ",Uddevalla,1,58.3503154,11.9344484,2515004620
+Vending,Fitness24Seven (Eskilstuna - Nyfors),"Vaestra aasgatan 27, 632 25 Eskilstuna",Eskilstuna,1,59.3688582,16.5046269,2515004622
+Vending,FW Broendby,Soendre Ringvej 41-45,2605 Broendby,1,55.654473,12.395386,2515004623
+Vending,FW Emdrup,Emdrup Station Emdrupvej 115A,2400 Koebenhavn NV,1,55.7219153,12.5409729,2515004624
+Vending,"FW Ebeltoft, Ebic",oester Allé 17,8400 Ebeltoft,1,59.307903,18.156042,2515004627
+Vending,FW Holbaek,"Ahlgade 61-63, kld.",4300 Holbaek,1,55.7169545,11.715536,2515004629
+Vending,FW Birkeroed,Birkeroed Kongevej 64,Birkeroed 3460,1,55.8410294,12.4401994,2515004635
+Vending,FW Ballerup,"Banegaardspladsen 3-5, 2. sal",2750 Ballerup,1,55.724508,12.354765,2515004636
+Vending,Fitness world Koege,Tigervej 12,Koege,1,55.4752608,12.1757524,2515004639
+Vending,FW Holte,Holte Midtpunkt 23 2 sal,2840 Holte,1,55.811471,12.471455,2515004641
+Vending,FW Herlev BIG,Herlev Hovedgade 17,2730 Herlev,2,55.718883,12.450915,2515004642-2515004646
+Vending,FW Ndr. Fasanvej,Nordre Fasanvej 218,KBH 2200,1,55.698507,12.536508,2515004644
+Vending,Traeningsmagasinet Rappshuset AB (Arboga Gym),Glasbruksgatan 1,73231 Arboga,1,59.3936883,15.8381747,2519008584
+Vending,Kommanditbolaget aelvhoegsborg,Storgatan 1,461 31 Trollhaettan,1,58.2892618,12.2926872,2519008585
+Vending,Loop holbaek,Taastrup moellevej 5,4300 Holbaek,1,55.7037739,11.7081546,2519008589
+Vending,Fresh Fitness,"Hauketoveien 8, ",1266 Oslo.,2,59.8470096,10.8044064,2519008593-2519008605
+Vending,Fresh Fitness Halmstad,"Jaernvaegsgatan  4A, 302 49",Halmstad,2,55.6350412,13.210313,2519008596-2519008618
+Vending,Sportlife i Kungsbacka AB (NW - Nacka),Gamla Landsvaegen 10,131 47 NACKA,1,59.307903,18.156042,2519008609
+Vending,XerciseKristianstad AB (Haerloev),Saevvaegen 8,29159 Kristianstad,1,56.0293936,14.1566778,2519008611
+Vending,Fresh Fitness Sollentuna,"Hovslagarevaegen 2, 192 54",Sollentuna,3,59.4499728,17.9483244,2519008612-2519008614-2519008621
+Vending,PDL Group AB (PDL Center),"Palermogatan 34, Magasin 7, Frihamnen",11356 Stockholm,1,59.3293235,18.0685808,2519008615
+Vending,Studio S i Hjaerup AB (Staffanstorp),Malmoevaegen 2,24532 Staffanstorp,1,55.641065,13.212229,2519008622
+Vending,Fitness 24 Seven Uppsala - Kvarntorget,"Kvarntorgen 9, 753 20 Uppsala",Uppsala,1,59.8584151,17.6417382,2521010975
+Vending,Fitness 24 Seven Mariestad - Knallen,"Nya Torget 4, 542 30 Mariestad",Mariestad,1,58.7090033,13.8233947,2521010977
+Vending,Nordicwellness - Uddevalla City,"Kungsgatan 39, 451 30 Uddevalla",Uddevalla,1,58.349255,11.9418708,2521010981
+Vending,Aktiv Helse Studie,Benloeseparken 2 (Benloese centeret),4100 - Ringsted,1,55.442952,11.791372,2521010985
+Vending,Fit og sund Koege,Lykkebaekvej 14,4600 Koege,1,55.4792909,12.1636168,2521010988
+Vending,FW Farum,Idraetsvaenget 2,3520 Farum,1,55.817297,12.351312,2521010990
+Vending,FW Alleroed,Banetorvet 3,3450 Alleroed,1,55.870982,12.357554,2521010991
+Vending,Fdk Gentofte,Gentoftegade 35,2820 Gentofte,1,55.7473823,12.5411794,2521010993
+Vending,FW Peter bangs vej,H.V. Nyholmsvej 7,2000 Frederiksberg,1,55.681845,12.5179439,2521010996
