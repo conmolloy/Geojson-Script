@@ -13,4 +13,6 @@ There is a Step action guide for more help.
 
 External library used are the OS library and the CSV library. https://docs.python.org/2/library/csv.html make sure these are installed before running they python version of the script.
 
+To use the example index.html you will have to get a mapbox API access token. (https://www.mapbox.com/help/create-api-access-token/)
+
 Enjoy!
